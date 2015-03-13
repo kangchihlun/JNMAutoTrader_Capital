@@ -1,0 +1,2 @@
+# JNMAutoTrader_Capital
+修改自群益api範例的小日經自動交易程式
