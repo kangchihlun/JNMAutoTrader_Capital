@@ -1,0 +1,53 @@
+[4396] 2015/03/07 06:56:19.449 API InitInstance 
+[4396] 2015/03/07 06:56:19.453 SKOSQuoteLib_Initialize  ID：E122828927
+[4396] 2015/03/07 06:56:19.455 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[4396] 2015/03/07 06:56:20.258 SKOSQuoteLib_AttachConnectCallBack
+[4396] 2015/03/07 06:56:20.260 SKOSQuoteLib_AttachQuoteCallBack
+[4396] 2015/03/07 06:56:20.262 SKOSQuoteLib_AttachTicksCallBack
+[4396] 2015/03/07 06:56:20.264 SKOSQuoteLib_AttachBest5CallBack
+[4396] 2015/03/07 06:56:20.266 SKOSQuoteLib_AttachServerTimeCallBack
+[4396] 2015/03/07 06:56:20.268 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4396] 2015/03/07 06:56:20.273 SKOSQuoteLib_EnterMonitor(0)
+[4396] 2015/03/07 06:56:20.275 Connect FORT07.capital.com.tw 443
+[4396] 2015/03/07 06:56:20.372 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4396] 2015/03/07 06:56:53.746 SKOSQuoteLib_LeaveMonitor()
+[4396] 2015/03/07 06:56:53.748 連線中斷，Code: 10053 , The virtual circuit was terminated due to a time-out or other failure. The application should close the socket as it is no longer usable.
+[4396] 2015/03/07 06:56:53.753 SocketDisconnect 斷線CALLBACK通知
+[4396] 2015/03/07 06:56:53.877 API ExitInstance 
+[3316] 2015/03/07 13:52:47.092 API InitInstance 
+[3316] 2015/03/07 13:52:47.097 SKOSQuoteLib_Initialize  ID：E122828927
+[3316] 2015/03/07 13:52:47.099 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[3316] 2015/03/07 13:52:47.721 SKOSQuoteLib_AttachConnectCallBack
+[3316] 2015/03/07 13:52:47.723 SKOSQuoteLib_AttachQuoteCallBack
+[3316] 2015/03/07 13:52:47.725 SKOSQuoteLib_AttachTicksCallBack
+[3316] 2015/03/07 13:52:47.726 SKOSQuoteLib_AttachBest5CallBack
+[3316] 2015/03/07 13:52:47.728 SKOSQuoteLib_AttachServerTimeCallBack
+[3316] 2015/03/07 13:52:47.731 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[3316] 2015/03/07 13:52:47.738 SKOSQuoteLib_EnterMonitor(0)
+[3316] 2015/03/07 13:52:47.739 Connect FORT01.capital.com.tw 443
+[3316] 2015/03/07 13:52:47.796 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[3316] 2015/03/07 13:52:56.629 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[3316] 2015/03/07 14:08:06.724 API ExitInstance 
+[3580] 2015/03/07 14:08:08.059 API InitInstance 
+[3580] 2015/03/07 14:08:08.060 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[3580] 2015/03/07 14:08:09.295 API ExitInstance 
+[2280] 2015/03/07 15:04:51.666 API InitInstance 
+[2280] 2015/03/07 15:04:51.667 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[2280] 2015/03/07 15:04:51.761 API ExitInstance 
+[2140] 2015/03/07 15:26:18.337 API InitInstance 
+[2140] 2015/03/07 15:26:18.341 SKOSQuoteLib_Initialize  ID：E122828927
+[2140] 2015/03/07 15:26:18.343 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[2140] 2015/03/07 15:26:19.371 SKOSQuoteLib_AttachConnectCallBack
+[2140] 2015/03/07 15:26:19.373 SKOSQuoteLib_AttachQuoteCallBack
+[2140] 2015/03/07 15:26:19.375 SKOSQuoteLib_AttachTicksCallBack
+[2140] 2015/03/07 15:26:19.377 SKOSQuoteLib_AttachBest5CallBack
+[2140] 2015/03/07 15:26:19.379 SKOSQuoteLib_AttachServerTimeCallBack
+[2140] 2015/03/07 15:26:19.381 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[2140] 2015/03/07 15:26:19.386 SKOSQuoteLib_EnterMonitor(0)
+[2140] 2015/03/07 15:26:19.387 Connect FORT15.capital.com.tw 443
+[2140] 2015/03/07 15:26:19.494 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[2140] 2015/03/07 15:26:23.245 SKOSQuoteLib_AttachOverseaProductsCallBack
+[2140] 2015/03/07 15:26:23.247 SKOSQuoteLib_RequestOverseaProducts()
+[2140] 2015/03/07 15:26:28.439 SKOSQuoteLib_AttachKLineDataCallBack
+[2140] 2015/03/07 15:26:28.442 SKOSQuoteLib_RequestKLine (OSE,JNM1503,0)
+[2140] 2015/03/07 15:26:40.007 SKOSQuoteLib_RequestKLine (OSE,JNMPM1503,0)

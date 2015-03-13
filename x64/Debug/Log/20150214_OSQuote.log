@@ -1,0 +1,30 @@
+[4908] 2015/02/14 02:30:10.890 API InitInstance 
+[4908] 2015/02/14 02:30:10.895 SKOSQuoteLib_Initialize  ID：E122828927
+[4908] 2015/02/14 02:30:10.897 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[4908] 2015/02/14 02:30:11.581 SKOSQuoteLib_AttachConnectCallBack
+[4908] 2015/02/14 02:30:11.584 SKOSQuoteLib_AttachQuoteCallBack
+[4908] 2015/02/14 02:30:11.586 SKOSQuoteLib_AttachTicksCallBack
+[4908] 2015/02/14 02:30:11.587 SKOSQuoteLib_AttachBest5CallBack
+[4908] 2015/02/14 02:30:11.590 SKOSQuoteLib_AttachServerTimeCallBack
+[4908] 2015/02/14 02:30:11.592 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4908] 2015/02/14 02:30:11.597 SKOSQuoteLib_EnterMonitor(0)
+[4908] 2015/02/14 02:30:11.599 Connect FORT15.capital.com.tw 443
+[4908] 2015/02/14 02:30:12.908 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4908] 2015/02/14 02:30:20.380 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[5280] 2015/02/14 16:59:00.835 API InitInstance 
+[5280] 2015/02/14 16:59:00.840 SKOSQuoteLib_Initialize  ID：E122828927
+[5280] 2015/02/14 16:59:00.842 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[5280] 2015/02/14 16:59:01.438 SKOSQuoteLib_AttachConnectCallBack
+[5280] 2015/02/14 16:59:01.440 SKOSQuoteLib_AttachQuoteCallBack
+[5280] 2015/02/14 16:59:01.442 SKOSQuoteLib_AttachTicksCallBack
+[5280] 2015/02/14 16:59:01.444 SKOSQuoteLib_AttachBest5CallBack
+[5280] 2015/02/14 16:59:01.446 SKOSQuoteLib_AttachServerTimeCallBack
+[5280] 2015/02/14 16:59:01.448 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[5280] 2015/02/14 16:59:01.453 SKOSQuoteLib_EnterMonitor(0)
+[5280] 2015/02/14 16:59:01.455 Connect FORT05.capital.com.tw 443
+[5280] 2015/02/14 16:59:01.502 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[5280] 2015/02/14 16:59:10.357 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[5280] 2015/02/14 17:03:17.673 SKOSQuoteLib_LeaveMonitor()
+[5280] 2015/02/14 17:03:17.675 連線中斷，Code: 10053 , The virtual circuit was terminated due to a time-out or other failure. The application should close the socket as it is no longer usable.
+[5280] 2015/02/14 17:03:17.679 SocketDisconnect 斷線CALLBACK通知
+[5280] 2015/02/14 17:03:17.787 API ExitInstance 

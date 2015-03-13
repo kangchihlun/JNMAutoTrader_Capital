@@ -1,0 +1,32 @@
+[1304] 2015/02/14 07:33:35.828 API InitInstance 
+[1304] 2015/02/14 07:33:35.833 SKOSQuoteLib_Initialize  ID：E122828927
+[1304] 2015/02/14 07:33:35.835 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[1304] 2015/02/14 07:33:36.688 SKOSQuoteLib_AttachConnectCallBack
+[1304] 2015/02/14 07:33:36.690 SKOSQuoteLib_AttachQuoteCallBack
+[1304] 2015/02/14 07:33:36.693 SKOSQuoteLib_AttachTicksCallBack
+[1304] 2015/02/14 07:33:36.694 SKOSQuoteLib_AttachBest5CallBack
+[1304] 2015/02/14 07:33:36.697 SKOSQuoteLib_AttachServerTimeCallBack
+[1304] 2015/02/14 07:33:36.699 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[1304] 2015/02/14 07:33:36.704 SKOSQuoteLib_EnterMonitor(0)
+[1304] 2015/02/14 07:33:36.706 Connect FORT13.capital.com.tw 443
+[1304] 2015/02/14 07:33:36.807 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1304] 2015/02/14 07:33:39.701 API ExitInstance 
+[6068] 2015/02/14 07:35:29.499 API InitInstance 
+[6068] 2015/02/14 07:35:29.504 SKOSQuoteLib_Initialize  ID：E122828927
+[6068] 2015/02/14 07:35:29.505 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[6068] 2015/02/14 07:35:30.164 SKOSQuoteLib_AttachConnectCallBack
+[6068] 2015/02/14 07:35:30.166 SKOSQuoteLib_AttachQuoteCallBack
+[6068] 2015/02/14 07:35:30.168 SKOSQuoteLib_AttachTicksCallBack
+[6068] 2015/02/14 07:35:30.170 SKOSQuoteLib_AttachBest5CallBack
+[6068] 2015/02/14 07:35:30.172 SKOSQuoteLib_AttachServerTimeCallBack
+[6068] 2015/02/14 07:35:30.174 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[6068] 2015/02/14 07:35:30.179 SKOSQuoteLib_EnterMonitor(0)
+[6068] 2015/02/14 07:35:30.181 Connect FORT07.capital.com.tw 443
+[6068] 2015/02/14 07:35:45.681 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[6068] 2015/02/14 07:38:06.781 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[6068] 2015/02/14 07:38:06.788 SocketDisconnect 斷線CALLBACK通知
+[6068] 2015/02/14 07:38:06.792 SKOSQuoteLib_EnterMonitor(0)
+[6068] 2015/02/14 07:38:06.794 Connect FORT07.capital.com.tw 443
+[6068] 2015/02/14 07:38:06.796 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[6068] 2015/02/14 07:38:06.805 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[6068] 2015/02/14 07:38:06.907 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0

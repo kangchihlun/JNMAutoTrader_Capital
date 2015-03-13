@@ -1,0 +1,71 @@
+[6588] 2015/02/12 06:54:29.962 API InitInstance 
+[6588] 2015/02/12 06:54:29.967 SKOSQuoteLib_Initialize  ID¡GE122828927
+[6588] 2015/02/12 06:54:29.969 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[6588] 2015/02/12 06:54:31.264 SKOSQuoteLib_AttachConnectCallBack
+[6588] 2015/02/12 06:54:31.266 SKOSQuoteLib_AttachQuoteCallBack
+[6588] 2015/02/12 06:54:31.268 SKOSQuoteLib_AttachTicksCallBack
+[6588] 2015/02/12 06:54:31.270 SKOSQuoteLib_AttachBest5CallBack
+[6588] 2015/02/12 06:54:31.272 SKOSQuoteLib_AttachServerTimeCallBack
+[6588] 2015/02/12 06:54:31.275 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[6588] 2015/02/12 06:54:31.279 SKOSQuoteLib_EnterMonitor(0)
+[6588] 2015/02/12 06:54:31.281 Connect FORT05.capital.com.tw 443
+[6588] 2015/02/12 06:54:31.449 SK_SUBJECT_CONNECTION_CONNECTED¡ACode: 0
+[6588] 2015/02/12 06:54:36.534 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[3828] 2015/02/12 06:55:49.248 API InitInstance 
+[3828] 2015/02/12 06:55:49.253 SKOSQuoteLib_Initialize  ID¡GE122828927
+[3828] 2015/02/12 06:55:49.254 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[3828] 2015/02/12 06:55:50.025 SKOSQuoteLib_AttachConnectCallBack
+[3828] 2015/02/12 06:55:50.027 SKOSQuoteLib_AttachQuoteCallBack
+[3828] 2015/02/12 06:55:50.030 SKOSQuoteLib_AttachTicksCallBack
+[3828] 2015/02/12 06:55:50.031 SKOSQuoteLib_AttachBest5CallBack
+[3828] 2015/02/12 06:55:50.033 SKOSQuoteLib_AttachServerTimeCallBack
+[3828] 2015/02/12 06:55:50.036 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[3828] 2015/02/12 06:55:50.040 SKOSQuoteLib_EnterMonitor(0)
+[3828] 2015/02/12 06:55:50.042 Connect FORT05.capital.com.tw 443
+[3828] 2015/02/12 06:55:50.087 SK_SUBJECT_CONNECTION_CONNECTED¡ACode: 0
+[3828] 2015/02/12 06:55:59.584 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[3828] 2015/02/12 07:01:22.005 API ExitInstance 
+[4820] 2015/02/12 07:02:42.115 API InitInstance 
+[4820] 2015/02/12 07:02:42.116 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[4820] 2015/02/12 07:02:42.207 API ExitInstance 
+[5624] 2015/02/12 07:02:47.604 API InitInstance 
+[5624] 2015/02/12 07:02:47.608 SKOSQuoteLib_Initialize  ID¡GE122828927
+[5624] 2015/02/12 07:02:47.610 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[5624] 2015/02/12 07:02:48.617 SKOSQuoteLib_AttachConnectCallBack
+[5624] 2015/02/12 07:02:48.620 SKOSQuoteLib_AttachQuoteCallBack
+[5624] 2015/02/12 07:02:48.622 SKOSQuoteLib_AttachTicksCallBack
+[5624] 2015/02/12 07:02:48.624 SKOSQuoteLib_AttachBest5CallBack
+[5624] 2015/02/12 07:02:48.626 SKOSQuoteLib_AttachServerTimeCallBack
+[5624] 2015/02/12 07:02:48.628 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[5624] 2015/02/12 07:02:48.632 SKOSQuoteLib_EnterMonitor(0)
+[5624] 2015/02/12 07:02:48.634 Connect FORT07.capital.com.tw 443
+[5624] 2015/02/12 07:02:48.758 SK_SUBJECT_CONNECTION_CONNECTED¡ACode: 0
+[5624] 2015/02/12 07:02:52.214 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[5624] 2015/02/12 07:03:06.734 API ExitInstance 
+[832] 2015/02/12 07:04:05.415 API InitInstance 
+[832] 2015/02/12 07:04:05.419 SKOSQuoteLib_Initialize  ID¡GE122828927
+[832] 2015/02/12 07:04:05.420 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[832] 2015/02/12 07:04:06.179 SKOSQuoteLib_AttachConnectCallBack
+[832] 2015/02/12 07:04:06.181 SKOSQuoteLib_AttachQuoteCallBack
+[832] 2015/02/12 07:04:06.183 SKOSQuoteLib_AttachTicksCallBack
+[832] 2015/02/12 07:04:06.185 SKOSQuoteLib_AttachBest5CallBack
+[832] 2015/02/12 07:04:06.186 SKOSQuoteLib_AttachServerTimeCallBack
+[832] 2015/02/12 07:04:06.188 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[832] 2015/02/12 07:04:06.192 SKOSQuoteLib_EnterMonitor(0)
+[832] 2015/02/12 07:04:06.194 Connect FORT09.capital.com.tw 443
+[832] 2015/02/12 07:04:06.260 SK_SUBJECT_CONNECTION_CONNECTED¡ACode: 0
+[832] 2015/02/12 07:04:09.265 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[5804] 2015/02/12 07:35:37.340 API InitInstance 
+[5804] 2015/02/12 07:35:37.343 SKOSQuoteLib_Initialize  ID¡GE122828927
+[5804] 2015/02/12 07:35:37.345 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[5804] 2015/02/12 07:35:37.975 SKOSQuoteLib_AttachConnectCallBack
+[5804] 2015/02/12 07:35:37.977 SKOSQuoteLib_AttachQuoteCallBack
+[5804] 2015/02/12 07:35:37.979 SKOSQuoteLib_AttachTicksCallBack
+[5804] 2015/02/12 07:35:37.981 SKOSQuoteLib_AttachBest5CallBack
+[5804] 2015/02/12 07:35:37.983 SKOSQuoteLib_AttachServerTimeCallBack
+[5804] 2015/02/12 07:35:37.985 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[5804] 2015/02/12 07:35:37.991 SKOSQuoteLib_EnterMonitor(0)
+[5804] 2015/02/12 07:35:37.993 Connect FORT01.capital.com.tw 443
+[5804] 2015/02/12 07:35:38.028 SK_SUBJECT_CONNECTION_CONNECTED¡ACode: 0
+[5804] 2015/02/12 07:35:46.967 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[5804] 2015/02/12 07:52:48.861 API ExitInstance 

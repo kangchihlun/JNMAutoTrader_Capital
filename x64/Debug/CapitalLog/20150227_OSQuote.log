@@ -1,0 +1,33 @@
+[4996] 2015/02/27 07:04:00.931 API InitInstance 
+[4996] 2015/02/27 07:04:00.935 SKOSQuoteLib_Initialize  ID¡GE122828927
+[4996] 2015/02/27 07:04:00.936 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[4996] 2015/02/27 07:04:03.372 SKOSQuoteLib_AttachConnectCallBack
+[4996] 2015/02/27 07:04:03.374 SKOSQuoteLib_AttachQuoteCallBack
+[4996] 2015/02/27 07:04:03.377 SKOSQuoteLib_AttachTicksCallBack
+[4996] 2015/02/27 07:04:03.378 SKOSQuoteLib_AttachBest5CallBack
+[4996] 2015/02/27 07:04:03.380 SKOSQuoteLib_AttachServerTimeCallBack
+[4996] 2015/02/27 07:04:03.383 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4996] 2015/02/27 07:04:03.391 SKOSQuoteLib_EnterMonitor(0)
+[4996] 2015/02/27 07:04:03.393 Connect FORT01.capital.com.tw 443
+[4792] 2015/02/27 07:10:03.005 API InitInstance 
+[4792] 2015/02/27 07:10:03.009 SKOSQuoteLib_Initialize  ID¡GE122828927
+[4792] 2015/02/27 07:10:03.011 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[4792] 2015/02/27 07:10:03.740 SKOSQuoteLib_AttachConnectCallBack
+[4792] 2015/02/27 07:10:03.742 SKOSQuoteLib_AttachQuoteCallBack
+[4792] 2015/02/27 07:10:03.744 SKOSQuoteLib_AttachTicksCallBack
+[4792] 2015/02/27 07:10:03.745 SKOSQuoteLib_AttachBest5CallBack
+[4792] 2015/02/27 07:10:03.747 SKOSQuoteLib_AttachServerTimeCallBack
+[4792] 2015/02/27 07:10:03.749 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4792] 2015/02/27 07:10:03.753 SKOSQuoteLib_EnterMonitor(0)
+[4792] 2015/02/27 07:10:03.755 Connect FORT13.capital.com.tw 443
+[3776] 2015/02/27 07:13:47.841 API InitInstance 
+[3776] 2015/02/27 07:13:47.846 SKOSQuoteLib_Initialize  ID¡GE122828927
+[3776] 2015/02/27 07:13:47.848 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[3776] 2015/02/27 07:13:48.549 SKOSQuoteLib_AttachConnectCallBack
+[3776] 2015/02/27 07:13:48.551 SKOSQuoteLib_AttachQuoteCallBack
+[3776] 2015/02/27 07:13:48.553 SKOSQuoteLib_AttachTicksCallBack
+[3776] 2015/02/27 07:13:48.555 SKOSQuoteLib_AttachBest5CallBack
+[3776] 2015/02/27 07:13:48.557 SKOSQuoteLib_AttachServerTimeCallBack
+[3776] 2015/02/27 07:13:48.560 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[3776] 2015/02/27 07:13:48.563 SKOSQuoteLib_EnterMonitor(0)
+[3776] 2015/02/27 07:13:48.565 Connect FORT01.capital.com.tw 443

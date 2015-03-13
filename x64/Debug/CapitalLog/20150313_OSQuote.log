@@ -1,0 +1,54 @@
+[2632] 2015/03/13 08:11:49.832 API InitInstance 
+[2632] 2015/03/13 08:11:49.847 SKOSQuoteLib_Initialize  ID：E122828927
+[2632] 2015/03/13 08:11:49.847 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[2632] 2015/03/13 08:11:51.033 SKOSQuoteLib_AttachConnectCallBack
+[2632] 2015/03/13 08:11:51.033 SKOSQuoteLib_AttachQuoteCallBack
+[2632] 2015/03/13 08:11:51.033 SKOSQuoteLib_AttachTicksCallBack
+[2632] 2015/03/13 08:11:51.033 SKOSQuoteLib_AttachBest5CallBack
+[2632] 2015/03/13 08:11:51.033 SKOSQuoteLib_AttachServerTimeCallBack
+[2632] 2015/03/13 08:11:51.033 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[2632] 2015/03/13 08:11:51.048 SKOSQuoteLib_EnterMonitor(0)
+[2632] 2015/03/13 08:11:51.048 Connect FORT07.capital.com.tw 443
+[2632] 2015/03/13 08:11:51.204 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[2632] 2015/03/13 08:11:53.092 SKOSQuoteLib_AttachOverseaProductsCallBack
+[2632] 2015/03/13 08:11:53.092 SKOSQuoteLib_RequestOverseaProducts()
+[3272] 2015/03/13 08:12:14.319 API InitInstance 
+[3272] 2015/03/13 08:12:14.319 SKOSQuoteLib_Initialize  ID：E122828927
+[3272] 2015/03/13 08:12:14.319 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[3272] 2015/03/13 08:12:15.099 SKOSQuoteLib_AttachConnectCallBack
+[3272] 2015/03/13 08:12:15.099 SKOSQuoteLib_AttachQuoteCallBack
+[3272] 2015/03/13 08:12:15.099 SKOSQuoteLib_AttachTicksCallBack
+[3272] 2015/03/13 08:12:15.099 SKOSQuoteLib_AttachBest5CallBack
+[3272] 2015/03/13 08:12:15.099 SKOSQuoteLib_AttachServerTimeCallBack
+[3272] 2015/03/13 08:12:15.115 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[3272] 2015/03/13 08:12:15.115 SKOSQuoteLib_EnterMonitor(0)
+[3272] 2015/03/13 08:12:15.115 Connect FORT07.capital.com.tw 443
+[3272] 2015/03/13 08:12:15.161 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[3272] 2015/03/13 08:12:16.877 SKOSQuoteLib_AttachOverseaProductsCallBack
+[3272] 2015/03/13 08:12:16.877 SKOSQuoteLib_RequestOverseaProducts()
+[2264] 2015/03/13 08:13:28.870 API InitInstance 
+[2264] 2015/03/13 08:13:28.886 SKOSQuoteLib_Initialize  ID：E122828927
+[2264] 2015/03/13 08:13:28.886 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[2264] 2015/03/13 08:13:29.603 SKOSQuoteLib_AttachConnectCallBack
+[2264] 2015/03/13 08:13:29.603 SKOSQuoteLib_AttachQuoteCallBack
+[2264] 2015/03/13 08:13:29.603 SKOSQuoteLib_AttachTicksCallBack
+[2264] 2015/03/13 08:13:29.603 SKOSQuoteLib_AttachBest5CallBack
+[2264] 2015/03/13 08:13:29.603 SKOSQuoteLib_AttachServerTimeCallBack
+[2264] 2015/03/13 08:13:29.603 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[2264] 2015/03/13 08:13:29.619 SKOSQuoteLib_EnterMonitor(0)
+[2264] 2015/03/13 08:13:29.619 Connect FORT03.capital.com.tw 443
+[2264] 2015/03/13 08:13:29.681 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[2264] 2015/03/13 08:13:31.959 SKOSQuoteLib_AttachOverseaProductsCallBack
+[2264] 2015/03/13 08:13:31.959 SKOSQuoteLib_RequestOverseaProducts()
+[2264] 2015/03/13 08:14:59.409 SKOSQuoteLib_AttachKLineDataCallBack
+[2264] 2015/03/13 08:14:59.409 SKOSQuoteLib_RequestKLine (OSE,JNM1509,0)
+[2264] 2015/03/13 08:14:59.409 SKOSQuoteLib_AttachKLineDataCallBack
+[2264] 2015/03/13 08:14:59.409 SKOSQuoteLib_RequestKLine (OSE,JNM1509,0)
+[2264] 2015/03/13 08:15:24.371 SKOSQuoteLib_RequestKLine (OSE,JNMPM1509,0)
+[2264] 2015/03/13 08:15:24.823 SKOSQuoteLib_RequestKLine (OSE,JNMPM1509,0)
+[2264] 2015/03/13 08:16:06.028 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[2264] 2015/03/13 08:16:06.044 SocketDisconnect 斷線CALLBACK通知
+[2264] 2015/03/13 08:16:06.044 SKOSQuoteLib_EnterMonitor(0)
+[2264] 2015/03/13 08:16:06.044 Connect FORT03.capital.com.tw 443
+[2264] 2015/03/13 08:16:06.044 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[2264] 2015/03/13 08:16:06.106 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0

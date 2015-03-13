@@ -1,0 +1,34 @@
+[4288] 2015/02/11 07:11:14.457 API InitInstance 
+[4288] 2015/02/11 07:11:14.459 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[4288] 2015/02/11 07:11:14.550 API ExitInstance 
+[568] 2015/02/11 08:09:06.720 API InitInstance 
+[568] 2015/02/11 08:09:06.724 SKOSQuoteLib_Initialize  ID¡GE122828927
+[568] 2015/02/11 08:09:06.726 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[568] 2015/02/11 08:09:07.364 SKOSQuoteLib_AttachConnectCallBack
+[568] 2015/02/11 08:09:07.366 SKOSQuoteLib_AttachQuoteCallBack
+[568] 2015/02/11 08:09:07.368 SKOSQuoteLib_AttachTicksCallBack
+[568] 2015/02/11 08:09:07.369 SKOSQuoteLib_AttachBest5CallBack
+[568] 2015/02/11 08:09:07.371 SKOSQuoteLib_AttachServerTimeCallBack
+[568] 2015/02/11 08:09:07.373 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[568] 2015/02/11 08:09:16.714 SKOSQuoteLib_AttachOverseaProductsCallBack
+[568] 2015/02/11 08:09:16.715 SKOSQuoteLib_RequestOverseaProducts()
+[568] 2015/02/11 08:09:31.891 SKOSQuoteLib_RequestServerTime()
+[568] 2015/02/11 08:09:31.902 SKOSQuoteLib_AttachKLineDataCallBack
+[568] 2015/02/11 08:09:31.905 SKOSQuoteLib_RequestKLine (OSE,JNM1503,0)
+[568] 2015/02/11 08:09:35.670 SKOSQuoteLib_RequestKLine (OSE,JNMPM1503,0)
+[568] 2015/02/11 08:09:46.890 SKOSQuoteLib_RequestServerTime()
+[2224] 2015/02/11 08:11:35.418 API InitInstance 
+[2224] 2015/02/11 08:11:35.422 SKOSQuoteLib_Initialize  ID¡GE122828927
+[2224] 2015/02/11 08:11:35.424 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[2224] 2015/02/11 08:11:36.024 SKOSQuoteLib_AttachConnectCallBack
+[2224] 2015/02/11 08:11:36.026 SKOSQuoteLib_AttachQuoteCallBack
+[2224] 2015/02/11 08:11:36.028 SKOSQuoteLib_AttachTicksCallBack
+[2224] 2015/02/11 08:11:36.030 SKOSQuoteLib_AttachBest5CallBack
+[2224] 2015/02/11 08:11:36.031 SKOSQuoteLib_AttachServerTimeCallBack
+[2224] 2015/02/11 08:11:36.033 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[2224] 2015/02/11 08:11:36.037 SKOSQuoteLib_EnterMonitor(0)
+[2224] 2015/02/11 08:11:36.038 Connect FORT01.capital.com.tw 443
+[2224] 2015/02/11 08:11:36.109 SK_SUBJECT_CONNECTION_CONNECTED¡ACode: 0
+[2224] 2015/02/11 08:11:45.029 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[2224] 2015/02/11 08:20:03.950 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[2224] 2015/02/11 20:24:42.807 API ExitInstance 

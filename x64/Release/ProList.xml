@@ -1,0 +1,1773 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProList>
+<Row>
+  <StockCode>ES</StockCode>
+  <StockNo>1704</StockNo>
+  <StockName>榮化</StockName>
+  <StockKind>化學工業</StockKind>
+</Row>
+<Row>
+  <StockCode>MA</StockCode>
+  <StockNo>1707</StockNo>
+  <StockName>葡萄王</StockName>
+  <StockKind>化學工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EU</StockCode>
+  <StockNo>1710</StockNo>
+  <StockName>東聯</StockName>
+  <StockKind>化學工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EV</StockCode>
+  <StockNo>1711</StockNo>
+  <StockName>永光</StockName>
+  <StockKind>化學工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EW</StockCode>
+  <StockNo>1714</StockNo>
+  <StockName>和桐</StockName>
+  <StockKind>化學工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EY</StockCode>
+  <StockNo>1718</StockNo>
+  <StockName>中纖</StockName>
+  <StockKind>化學工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EZ</StockCode>
+  <StockNo>1722</StockNo>
+  <StockName>台肥</StockName>
+  <StockKind>化學工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FA</StockCode>
+  <StockNo>1723</StockNo>
+  <StockName>中碳</StockName>
+  <StockKind>化學工業</StockKind>
+</Row>
+<Row>
+  <StockCode>JR</StockCode>
+  <StockNo>4725</StockNo>
+  <StockName>信昌化</StockName>
+  <StockKind>化學工業</StockKind>
+</Row>
+<Row>
+  <StockCode>DF</StockCode>
+  <StockNo>1101</StockNo>
+  <StockName>台泥</StockName>
+  <StockKind>水泥工業</StockKind>
+</Row>
+<Row>
+  <StockCode>DY</StockCode>
+  <StockNo>1102</StockNo>
+  <StockName>亞泥</StockName>
+  <StockKind>水泥工業</StockKind>
+</Row>
+<Row>
+  <StockCode>KQ</StockCode>
+  <StockNo>1103</StockNo>
+  <StockName>嘉泥</StockName>
+  <StockKind>水泥工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EV</StockCode>
+  <StockNo>1711</StockNo>
+  <StockName>永光</StockName>
+  <StockKind>生技醫療</StockKind>
+</Row>
+<Row>
+  <StockCode>KT</StockCode>
+  <StockNo>1736</StockNo>
+  <StockName>喬山</StockName>
+  <StockKind>生技醫療</StockKind>
+</Row>
+<Row>
+  <StockCode>LP</StockCode>
+  <StockNo>1789</StockNo>
+  <StockName>神隆</StockName>
+  <StockKind>生技醫療</StockKind>
+</Row>
+<Row>
+  <StockCode>LG</StockCode>
+  <StockNo>3705</StockNo>
+  <StockName>永信</StockName>
+  <StockKind>生技醫療</StockKind>
+</Row>
+<Row>
+  <StockCode>MM</StockCode>
+  <StockNo>4164</StockNo>
+  <StockName>程業醫</StockName>
+  <StockKind>生技醫療</StockKind>
+</Row>
+<Row>
+  <StockCode>FN</StockCode>
+  <StockNo>2201</StockNo>
+  <StockName>裕隆</StockName>
+  <StockKind>汽車工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FO</StockCode>
+  <StockNo>2204</StockNo>
+  <StockName>中華</StockName>
+  <StockKind>汽車工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FP</StockCode>
+  <StockNo>2206</StockNo>
+  <StockName>三陽</StockName>
+  <StockKind>汽車工業</StockKind>
+</Row>
+<Row>
+  <StockCode>MI</StockCode>
+  <StockNo>2062</StockNo>
+  <StockName>橋椿</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>LV</StockCode>
+  <StockNo>5871</StockNo>
+  <StockName>F-中租</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>MR</StockCode>
+  <StockNo>6504</StockNo>
+  <StockName>南六</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>LZ</StockCode>
+  <StockNo>8422</StockNo>
+  <StockName>可寧衛</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>KL</StockCode>
+  <StockNo>9904</StockNo>
+  <StockName>寶成</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>KM</StockCode>
+  <StockNo>9905</StockNo>
+  <StockName>大華</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>LL</StockCode>
+  <StockNo>9907</StockNo>
+  <StockName>統一實</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>LM</StockCode>
+  <StockNo>9914</StockNo>
+  <StockName>美利達</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>KN</StockCode>
+  <StockNo>9934</StockNo>
+  <StockName>成霖</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>MV</StockCode>
+  <StockNo>9938</StockNo>
+  <StockName>百和</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>KO</StockCode>
+  <StockNo>9939</StockNo>
+  <StockName>宏全</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>LN</StockCode>
+  <StockNo>9941</StockNo>
+  <StockName>裕融</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>KP</StockCode>
+  <StockNo>9945</StockNo>
+  <StockName>潤泰新</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>DC</StockCode>
+  <StockNo>2801</StockNo>
+  <StockName>彰銀</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>HV</StockCode>
+  <StockNo>2809</StockNo>
+  <StockName>京城銀</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>HW</StockCode>
+  <StockNo>2812</StockNo>
+  <StockName>台中銀</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>HX</StockCode>
+  <StockNo>2820</StockNo>
+  <StockName>華票</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>HY</StockCode>
+  <StockNo>2823</StockNo>
+  <StockName>中壽</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>HZ</StockCode>
+  <StockNo>2833</StockNo>
+  <StockName>台壽保</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>IA</StockCode>
+  <StockNo>2834</StockNo>
+  <StockName>臺企銀</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>IB</StockCode>
+  <StockNo>2845</StockNo>
+  <StockName>遠東銀</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>IC</StockCode>
+  <StockNo>2847</StockNo>
+  <StockName>大眾銀</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>ID</StockCode>
+  <StockNo>2856</StockNo>
+  <StockName>元富證</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>CJ</StockCode>
+  <StockNo>2880</StockNo>
+  <StockName>華南金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>CE</StockCode>
+  <StockNo>2881</StockNo>
+  <StockName>富邦金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>CK</StockCode>
+  <StockNo>2882</StockNo>
+  <StockName>國泰金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>LR</StockCode>
+  <StockNo>2883</StockNo>
+  <StockName>開發金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>DN</StockCode>
+  <StockNo>2884</StockNo>
+  <StockName>玉山金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>DO</StockCode>
+  <StockNo>2885</StockNo>
+  <StockName>元大金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>CL</StockCode>
+  <StockNo>2886</StockNo>
+  <StockName>兆豐金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>CM</StockCode>
+  <StockNo>2887</StockNo>
+  <StockName>台新金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>DD</StockCode>
+  <StockNo>2888</StockNo>
+  <StockName>新光金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>IE</StockCode>
+  <StockNo>2889</StockNo>
+  <StockName>國票金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>DE</StockCode>
+  <StockNo>2890</StockNo>
+  <StockName>永豐金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>CN</StockCode>
+  <StockNo>2891</StockNo>
+  <StockName>中信金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>DP</StockCode>
+  <StockNo>2892</StockNo>
+  <StockName>第一金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>LO</StockCode>
+  <StockNo>5880</StockNo>
+  <StockName>合庫金</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>JX</StockCode>
+  <StockNo>6005</StockNo>
+  <StockName>群益證</StockName>
+  <StockKind>金融保險</StockKind>
+</Row>
+<Row>
+  <StockCode>HE</StockCode>
+  <StockNo>2501</StockNo>
+  <StockName>國建</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>HF</StockCode>
+  <StockNo>2504</StockNo>
+  <StockName>國產</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>HG</StockCode>
+  <StockNo>2511</StockNo>
+  <StockName>太子</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>HH</StockCode>
+  <StockNo>2515</StockNo>
+  <StockName>中工</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>HI</StockCode>
+  <StockNo>2520</StockNo>
+  <StockName>冠德</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>HJ</StockCode>
+  <StockNo>2534</StockNo>
+  <StockName>宏盛</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>HK</StockCode>
+  <StockNo>2536</StockNo>
+  <StockName>宏普</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>HL</StockCode>
+  <StockNo>2542</StockNo>
+  <StockName>興富發</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>HM</StockCode>
+  <StockNo>2545</StockNo>
+  <StockName>皇翔</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>HN</StockCode>
+  <StockNo>2547</StockNo>
+  <StockName>日勝生</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>HO</StockCode>
+  <StockNo>2548</StockNo>
+  <StockName>華固</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>LF</StockCode>
+  <StockNo>3703</StockNo>
+  <StockName>欣陸</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>JU</StockCode>
+  <StockNo>5522</StockNo>
+  <StockName>遠雄</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>JV</StockCode>
+  <StockNo>5531</StockNo>
+  <StockName>鄉林</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>JW</StockCode>
+  <StockNo>5534</StockNo>
+  <StockName>長虹</StockName>
+  <StockKind>建材營建</StockKind>
+</Row>
+<Row>
+  <StockCode>KU</StockCode>
+  <StockNo>1802</StockNo>
+  <StockName>台玻</StockName>
+  <StockKind>玻璃陶瓷</StockKind>
+</Row>
+<Row>
+  <StockCode>KR</StockCode>
+  <StockNo>1201</StockNo>
+  <StockName>味全</StockName>
+  <StockKind>食品工業</StockKind>
+</Row>
+<Row>
+  <StockCode>DZ</StockCode>
+  <StockNo>1210</StockNo>
+  <StockName>大成</StockName>
+  <StockKind>食品工業</StockKind>
+</Row>
+<Row>
+  <StockCode>CQ</StockCode>
+  <StockNo>1216</StockNo>
+  <StockName>統一</StockName>
+  <StockKind>食品工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EA</StockCode>
+  <StockNo>1227</StockNo>
+  <StockName>佳格</StockName>
+  <StockKind>食品工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EB</StockCode>
+  <StockNo>1229</StockNo>
+  <StockName>聯華</StockName>
+  <StockKind>食品工業</StockKind>
+</Row>
+<Row>
+  <StockCode>ER</StockCode>
+  <StockNo>1702</StockNo>
+  <StockName>南僑</StockName>
+  <StockKind>食品工業</StockKind>
+</Row>
+<Row>
+  <StockCode>CR</StockCode>
+  <StockNo>1402</StockNo>
+  <StockName>遠東新</StockName>
+  <StockKind>紡織纖維</StockKind>
+</Row>
+<Row>
+  <StockCode>EI</StockCode>
+  <StockNo>1409</StockNo>
+  <StockName>新纖</StockName>
+  <StockKind>紡織纖維</StockKind>
+</Row>
+<Row>
+  <StockCode>EJ</StockCode>
+  <StockNo>1419</StockNo>
+  <StockName>新紡</StockName>
+  <StockKind>紡織纖維</StockKind>
+</Row>
+<Row>
+  <StockCode>EK</StockCode>
+  <StockNo>1440</StockNo>
+  <StockName>南紡</StockName>
+  <StockKind>紡織纖維</StockKind>
+</Row>
+<Row>
+  <StockCode>EL</StockCode>
+  <StockNo>1444</StockNo>
+  <StockName>力麗</StockName>
+  <StockKind>紡織纖維</StockKind>
+</Row>
+<Row>
+  <StockCode>MF</StockCode>
+  <StockNo>1447</StockNo>
+  <StockName>力鵬</StockName>
+  <StockKind>紡織纖維</StockKind>
+</Row>
+<Row>
+  <StockCode>MG</StockCode>
+  <StockNo>1451</StockNo>
+  <StockName>年興</StockName>
+  <StockKind>紡織纖維</StockKind>
+</Row>
+<Row>
+  <StockCode>LW</StockCode>
+  <StockNo>1476</StockNo>
+  <StockName>儒鴻</StockName>
+  <StockKind>紡織纖維</StockKind>
+</Row>
+<Row>
+  <StockCode>KS</StockCode>
+  <StockNo>1477</StockNo>
+  <StockName>聚陽</StockName>
+  <StockKind>紡織纖維</StockKind>
+</Row>
+<Row>
+  <StockCode>KV</StockCode>
+  <StockNo>2208</StockNo>
+  <StockName>台船</StockName>
+  <StockKind>航運業</StockKind>
+</Row>
+<Row>
+  <StockCode>HP</StockCode>
+  <StockNo>2601</StockNo>
+  <StockName>益航</StockName>
+  <StockKind>航運業</StockKind>
+</Row>
+<Row>
+  <StockCode>CZ</StockCode>
+  <StockNo>2603</StockNo>
+  <StockName>長榮</StockName>
+  <StockKind>航運業</StockKind>
+</Row>
+<Row>
+  <StockCode>HQ</StockCode>
+  <StockNo>2605</StockNo>
+  <StockName>新興</StockName>
+  <StockKind>航運業</StockKind>
+</Row>
+<Row>
+  <StockCode>HR</StockCode>
+  <StockNo>2607</StockNo>
+  <StockName>榮運</StockName>
+  <StockKind>航運業</StockKind>
+</Row>
+<Row>
+  <StockCode>KZ</StockCode>
+  <StockNo>2608</StockNo>
+  <StockName>大榮</StockName>
+  <StockKind>航運業</StockKind>
+</Row>
+<Row>
+  <StockCode>DA</StockCode>
+  <StockNo>2609</StockNo>
+  <StockName>陽明</StockName>
+  <StockKind>航運業</StockKind>
+</Row>
+<Row>
+  <StockCode>DB</StockCode>
+  <StockNo>2610</StockNo>
+  <StockName>華航</StockName>
+  <StockKind>航運業</StockKind>
+</Row>
+<Row>
+  <StockCode>HS</StockCode>
+  <StockNo>2618</StockNo>
+  <StockName>長榮航</StockName>
+  <StockKind>航運業</StockKind>
+</Row>
+<Row>
+  <StockCode>IF</StockCode>
+  <StockNo>2903</StockNo>
+  <StockName>遠百</StockName>
+  <StockKind>貿易百貨</StockKind>
+</Row>
+<Row>
+  <StockCode>LA</StockCode>
+  <StockNo>2905</StockNo>
+  <StockName>三商行</StockName>
+  <StockKind>貿易百貨</StockKind>
+</Row>
+<Row>
+  <StockCode>IG</StockCode>
+  <StockNo>2908</StockNo>
+  <StockName>特力</StockName>
+  <StockKind>貿易百貨</StockKind>
+</Row>
+<Row>
+  <StockCode>IH</StockCode>
+  <StockNo>2913</StockNo>
+  <StockName>農林</StockName>
+  <StockKind>貿易百貨</StockKind>
+</Row>
+<Row>
+  <StockCode>DW</StockCode>
+  <StockNo>2915</StockNo>
+  <StockName>潤泰全</StockName>
+  <StockKind>貿易百貨</StockKind>
+</Row>
+<Row>
+  <StockCode>CF</StockCode>
+  <StockNo>1301</StockNo>
+  <StockName>台塑</StockName>
+  <StockKind>塑膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>CA</StockCode>
+  <StockNo>1303</StockNo>
+  <StockName>南亞</StockName>
+  <StockKind>塑膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EC</StockCode>
+  <StockNo>1304</StockNo>
+  <StockName>台聚</StockName>
+  <StockKind>塑膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>ED</StockCode>
+  <StockNo>1308</StockNo>
+  <StockName>亞聚</StockName>
+  <StockKind>塑膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EE</StockCode>
+  <StockNo>1312</StockNo>
+  <StockName>國喬</StockName>
+  <StockKind>塑膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EF</StockCode>
+  <StockNo>1313</StockNo>
+  <StockName>聯成</StockName>
+  <StockKind>塑膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EG</StockCode>
+  <StockNo>1314</StockNo>
+  <StockName>中石化</StockName>
+  <StockKind>塑膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>EH</StockCode>
+  <StockNo>1319</StockNo>
+  <StockName>東陽</StockName>
+  <StockKind>塑膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>DG</StockCode>
+  <StockNo>1326</StockNo>
+  <StockName>台化</StockName>
+  <StockKind>塑膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>CC</StockCode>
+  <StockNo>2303</StockNo>
+  <StockName>聯電</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>CT</StockCode>
+  <StockNo>2311</StockNo>
+  <StockName>日月光</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>CV</StockCode>
+  <StockNo>2325</StockNo>
+  <StockName>矽品</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>CD</StockCode>
+  <StockNo>2330</StockNo>
+  <StockName>台積電</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>DI</StockCode>
+  <StockNo>2337</StockNo>
+  <StockName>旺宏</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>FZ</StockCode>
+  <StockNo>2344</StockNo>
+  <StockName>華邦電</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>GF</StockCode>
+  <StockNo>2363</StockNo>
+  <StockName>矽統</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>GJ</StockCode>
+  <StockNo>2379</StockNo>
+  <StockName>瑞昱</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>GN</StockCode>
+  <StockNo>2401</StockNo>
+  <StockName>凌陽</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>GR</StockCode>
+  <StockNo>2449</StockNo>
+  <StockName>京元電</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>DV</StockCode>
+  <StockNo>2454</StockNo>
+  <StockName>聯發科</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>GW</StockCode>
+  <StockNo>2458</StockNo>
+  <StockName>義隆</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>GY</StockCode>
+  <StockNo>2481</StockNo>
+  <StockName>強茂</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>II</StockCode>
+  <StockNo>3006</StockNo>
+  <StockName>晶豪科</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>IO</StockCode>
+  <StockNo>3034</StockNo>
+  <StockName>聯詠</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>IP</StockCode>
+  <StockNo>3035</StockNo>
+  <StockName>智原</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>IS</StockCode>
+  <StockNo>3041</StockNo>
+  <StockName>揚智</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>IX</StockCode>
+  <StockNo>3189</StockNo>
+  <StockName>景碩</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>JB</StockCode>
+  <StockNo>3443</StockNo>
+  <StockName>創意</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>JE</StockCode>
+  <StockNo>3519</StockNo>
+  <StockName>綠能</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>JJ</StockCode>
+  <StockNo>3579</StockNo>
+  <StockName>尚志</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>JO</StockCode>
+  <StockNo>3697</StockNo>
+  <StockName>F-晨星</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>LH</StockCode>
+  <StockNo>5471</StockNo>
+  <StockName>松翰</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>KC</StockCode>
+  <StockNo>6239</StockNo>
+  <StockName>力成</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>MQ</StockCode>
+  <StockNo>6257</StockNo>
+  <StockName>矽格</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>KD</StockCode>
+  <StockNo>6271</StockNo>
+  <StockName>同欣電</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>KH</StockCode>
+  <StockNo>6286</StockNo>
+  <StockName>立錡</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>LK</StockCode>
+  <StockNo>8081</StockNo>
+  <StockName>致新</StockName>
+  <StockKind>電子–半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>CU</StockCode>
+  <StockNo>2323</StockNo>
+  <StockName>中環</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>FY</StockCode>
+  <StockNo>2340</StockNo>
+  <StockName>光磊</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>GG</StockCode>
+  <StockNo>2374</StockNo>
+  <StockName>佳能</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>DT</StockCode>
+  <StockNo>2384</StockNo>
+  <StockName>勝華</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>GM</StockCode>
+  <StockNo>2393</StockNo>
+  <StockName>億光</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>GP</StockCode>
+  <StockNo>2406</StockNo>
+  <StockName>國碩</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>CH</StockCode>
+  <StockNo>2409</StockNo>
+  <StockName>友達</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>DU</StockCode>
+  <StockNo>2448</StockNo>
+  <StockName>晶電</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>HA</StockCode>
+  <StockNo>2489</StockNo>
+  <StockName>瑞軒</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>HD</StockCode>
+  <StockNo>2499</StockNo>
+  <StockName>東貝</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>IJ</StockCode>
+  <StockNo>3008</StockNo>
+  <StockName>大立光</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>IM</StockCode>
+  <StockNo>3019</StockNo>
+  <StockName>亞光</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>IW</StockCode>
+  <StockNo>3061</StockNo>
+  <StockName>璨圓</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>LS</StockCode>
+  <StockNo>3149</StockNo>
+  <StockName>正達</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>JA</StockCode>
+  <StockNo>3383</StockNo>
+  <StockName>新世紀</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>LE</StockCode>
+  <StockNo>3406</StockNo>
+  <StockName>玉晶光</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>ML</StockCode>
+  <StockNo>3454</StockNo>
+  <StockName>晶睿</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>DQ</StockCode>
+  <StockNo>3481</StockNo>
+  <StockName>奇美電</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>JC</StockCode>
+  <StockNo>3504</StockNo>
+  <StockName>揚明光</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>JD</StockCode>
+  <StockNo>3514</StockNo>
+  <StockName>昱晶</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>JG</StockCode>
+  <StockNo>3561</StockNo>
+  <StockName>昇陽科</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>JH</StockCode>
+  <StockNo>3573</StockNo>
+  <StockName>穎台</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>JI</StockCode>
+  <StockNo>3576</StockNo>
+  <StockName>新日光</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>JK</StockCode>
+  <StockNo>3591</StockNo>
+  <StockName>艾笛森</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>JL</StockCode>
+  <StockNo>3622</StockNo>
+  <StockName>洋華</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>JN</StockCode>
+  <StockNo>3673</StockNo>
+  <StockName>F-TPK</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>MC</StockCode>
+  <StockNo>3698</StockNo>
+  <StockName>隆達</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>ME</StockCode>
+  <StockNo>4960</StockNo>
+  <StockName>奇美材</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>JY</StockCode>
+  <StockNo>6120</StockNo>
+  <StockName>輔祥</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>KA</StockCode>
+  <StockNo>6176</StockNo>
+  <StockName>瑞儀</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>KE</StockCode>
+  <StockNo>6278</StockNo>
+  <StockName>台表科</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>LJ</StockCode>
+  <StockNo>8072</StockNo>
+  <StockName>陞泰</StockName>
+  <StockKind>電子–光電</StockKind>
+</Row>
+<Row>
+  <StockCode>FS</StockCode>
+  <StockNo>2312</StockNo>
+  <StockName>金寶</StockName>
+  <StockKind>電子–其他電子</StockKind>
+</Row>
+<Row>
+  <StockCode>DH</StockCode>
+  <StockNo>2317</StockNo>
+  <StockName>鴻海</StockName>
+  <StockKind>電子–其他電子</StockKind>
+</Row>
+<Row>
+  <StockCode>GC</StockCode>
+  <StockNo>2354</StockNo>
+  <StockName>鴻準</StockName>
+  <StockKind>電子–其他電子</StockKind>
+</Row>
+<Row>
+  <StockCode>MJ</StockCode>
+  <StockNo>2360</StockNo>
+  <StockName>致茂</StockName>
+  <StockKind>電子–其他電子</StockKind>
+</Row>
+<Row>
+  <StockCode>KX</StockCode>
+  <StockNo>2373</StockNo>
+  <StockName>震旦行</StockName>
+  <StockKind>電子–其他電子</StockKind>
+</Row>
+<Row>
+  <StockCode>GO</StockCode>
+  <StockNo>2404</StockNo>
+  <StockName>漢唐</StockName>
+  <StockKind>電子–其他電子</StockKind>
+</Row>
+<Row>
+  <StockCode>KY</StockCode>
+  <StockNo>2495</StockNo>
+  <StockName>普安</StockName>
+  <StockKind>電子–其他電子</StockKind>
+</Row>
+<Row>
+  <StockCode>FW</StockCode>
+  <StockNo>2332</StockNo>
+  <StockName>友訊</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>DL</StockCode>
+  <StockNo>2412</StockNo>
+  <StockName>中華電</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>GS</StockCode>
+  <StockNo>2450</StockNo>
+  <StockName>神腦</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>GU</StockCode>
+  <StockNo>2455</StockNo>
+  <StockName>全新</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>GZ</StockCode>
+  <StockNo>2485</StockNo>
+  <StockName>兆赫</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>HC</StockCode>
+  <StockNo>2498</StockNo>
+  <StockName>宏達電</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>LC</StockCode>
+  <StockNo>3045</StockNo>
+  <StockName>台灣大</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>LD</StockCode>
+  <StockNo>3062</StockNo>
+  <StockName>建漢</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>IZ</StockCode>
+  <StockNo>3380</StockNo>
+  <StockName>明泰</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>JQ</StockCode>
+  <StockNo>3704</StockNo>
+  <StockName>合勤控</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>KG</StockCode>
+  <StockNo>6285</StockNo>
+  <StockName>啟碁</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>KJ</StockCode>
+  <StockNo>8078</StockNo>
+  <StockName>華寶</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>JT</StockCode>
+  <StockNo>5203</StockNo>
+  <StockName>訊連</StockName>
+  <StockKind>電子–資訊服務</StockKind>
+</Row>
+<Row>
+  <StockCode>MP</StockCode>
+  <StockNo>6214</StockNo>
+  <StockName>精誠</StockName>
+  <StockKind>電子–資訊服務</StockKind>
+</Row>
+<Row>
+  <StockCode>GA</StockCode>
+  <StockNo>2347</StockNo>
+  <StockName>聯強</StockName>
+  <StockKind>電子–電子通路</StockKind>
+</Row>
+<Row>
+  <StockCode>GQ</StockCode>
+  <StockNo>2430</StockNo>
+  <StockName>燦坤</StockName>
+  <StockKind>電子–電子通路</StockKind>
+</Row>
+<Row>
+  <StockCode>IK</StockCode>
+  <StockNo>3010</StockNo>
+  <StockName>華立</StockName>
+  <StockKind>電子–電子通路</StockKind>
+</Row>
+<Row>
+  <StockCode>IQ</StockCode>
+  <StockNo>3036</StockNo>
+  <StockName>文曄</StockName>
+  <StockKind>電子–電子通路</StockKind>
+</Row>
+<Row>
+  <StockCode>MB</StockCode>
+  <StockNo>2355</StockNo>
+  <StockName>敬鵬</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>JP</StockCode>
+  <StockNo>3702</StockNo>
+  <StockName>大聯大</StockName>
+  <StockKind>電子–電子通路</StockKind>
+</Row>
+<Row>
+  <StockCode>FG</StockCode>
+  <StockNo>2059</StockNo>
+  <StockName>川湖</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>FR</StockCode>
+  <StockNo>2308</StockNo>
+  <StockName>台達電</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>FT</StockCode>
+  <StockNo>2313</StockNo>
+  <StockName>華通</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>LX</StockCode>
+  <StockNo>2327</StockNo>
+  <StockName>國巨</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>KW</StockCode>
+  <StockNo>2328</StockNo>
+  <StockName>廣宇</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>GL</StockCode>
+  <StockNo>2392</StockNo>
+  <StockName>正崴</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>GV</StockCode>
+  <StockNo>2457</StockNo>
+  <StockName>飛宏</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>HB</StockCode>
+  <StockNo>2492</StockNo>
+  <StockName>華新科</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>IR</StockCode>
+  <StockNo>3037</StockNo>
+  <StockName>欣興</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>IT</StockCode>
+  <StockNo>3042</StockNo>
+  <StockName>晶技</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>LB</StockCode>
+  <StockNo>3044</StockNo>
+  <StockName>健鼎</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>IY</StockCode>
+  <StockNo>3376</StockNo>
+  <StockName>新日興</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>JF</StockCode>
+  <StockNo>3533</StockNo>
+  <StockName>嘉澤</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>JM</StockCode>
+  <StockNo>3653</StockNo>
+  <StockName>健策</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>JZ</StockCode>
+  <StockNo>6153</StockNo>
+  <StockName>嘉聯益</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>KB</StockCode>
+  <StockNo>6213</StockNo>
+  <StockName>聯茂</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>LI</StockCode>
+  <StockNo>6269</StockNo>
+  <StockName>台郡</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>KF</StockCode>
+  <StockNo>6282</StockNo>
+  <StockName>康舒</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>KI</StockCode>
+  <StockNo>8039</StockNo>
+  <StockName>台虹</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>LY</StockCode>
+  <StockNo>8046</StockNo>
+  <StockName>南電</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>KK</StockCode>
+  <StockNo>8163</StockNo>
+  <StockName>達方</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>LU</StockCode>
+  <StockNo>4958</StockNo>
+  <StockName>F-臻鼎</StockName>
+  <StockKind>電子–電子零組件</StockKind>
+</Row>
+<Row>
+  <StockCode>FQ</StockCode>
+  <StockNo>2301</StockNo>
+  <StockName>光寶科</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>FU</StockCode>
+  <StockNo>2315</StockNo>
+  <StockName>神達</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>CG</StockCode>
+  <StockNo>2324</StockNo>
+  <StockName>仁寶</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>FV</StockCode>
+  <StockNo>2331</StockNo>
+  <StockName>精英</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>CW</StockCode>
+  <StockNo>2352</StockNo>
+  <StockName>佳世達</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>DS</StockCode>
+  <StockNo>2353</StockNo>
+  <StockName>宏碁</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>LQ</StockCode>
+  <StockNo>2356</StockNo>
+  <StockName>英業達</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>DJ</StockCode>
+  <StockNo>2357</StockNo>
+  <StockName>華碩</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>GE</StockCode>
+  <StockNo>2362</StockNo>
+  <StockName>藍天</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>GH</StockCode>
+  <StockNo>2376</StockNo>
+  <StockName>技嘉</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>GI</StockCode>
+  <StockNo>2377</StockNo>
+  <StockName>微星</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>DK</StockCode>
+  <StockNo>2382</StockNo>
+  <StockName>廣達</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>GK</StockCode>
+  <StockNo>2385</StockNo>
+  <StockName>群光</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>GX</StockCode>
+  <StockNo>2474</StockNo>
+  <StockName>可成</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>IL</StockCode>
+  <StockNo>3013</StockNo>
+  <StockName>晟銘電</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>IN</StockCode>
+  <StockNo>3022</StockNo>
+  <StockName>威達電</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>IV</StockCode>
+  <StockNo>3060</StockNo>
+  <StockName>銘異</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>DX</StockCode>
+  <StockNo>3231</StockNo>
+  <StockName>緯創</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>JS</StockCode>
+  <StockNo>4938</StockNo>
+  <StockName>和碩</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>MO</StockCode>
+  <StockNo>6206</StockNo>
+  <StockName>飛捷</StockName>
+  <StockKind>電子–電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>MK</StockCode>
+  <StockNo>2439</StockNo>
+  <StockName>美律</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>LT</StockCode>
+  <StockNo>4904</StockNo>
+  <StockName>遠傳</StockName>
+  <StockKind>電子–通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>CS</StockCode>
+  <StockNo>1605</StockNo>
+  <StockName>華新</StockName>
+  <StockKind>電器電纜</StockKind>
+</Row>
+<Row>
+  <StockCode>EQ</StockCode>
+  <StockNo>1611</StockNo>
+  <StockName>中電</StockName>
+  <StockKind>電器電纜</StockKind>
+</Row>
+<Row>
+  <StockCode>EM</StockCode>
+  <StockNo>1504</StockNo>
+  <StockName>東元</StockName>
+  <StockKind>電機機械</StockKind>
+</Row>
+<Row>
+  <StockCode>EN</StockCode>
+  <StockNo>1507</StockNo>
+  <StockName>永大</StockName>
+  <StockKind>電機機械</StockKind>
+</Row>
+<Row>
+  <StockCode>EO</StockCode>
+  <StockNo>1560</StockNo>
+  <StockName>中砂</StockName>
+  <StockKind>電機機械</StockKind>
+</Row>
+<Row>
+  <StockCode>EP</StockCode>
+  <StockNo>1590</StockNo>
+  <StockName>F-亞德</StockName>
+  <StockKind>電機機械</StockKind>
+</Row>
+<Row>
+  <StockCode>FF</StockCode>
+  <StockNo>2049</StockNo>
+  <StockName>上銀</StockName>
+  <StockKind>電機機械</StockKind>
+</Row>
+<Row>
+  <StockCode>CX</StockCode>
+  <StockNo>2371</StockNo>
+  <StockName>大同</StockName>
+  <StockKind>電機機械</StockKind>
+</Row>
+<Row>
+  <StockCode>MD</StockCode>
+  <StockNo>4532</StockNo>
+  <StockName>瑞智</StockName>
+  <StockKind>電機機械</StockKind>
+</Row>
+<Row>
+  <StockCode>MU</StockCode>
+  <StockNo>6605</StockNo>
+  <StockName>帝寶</StockName>
+  <StockKind>電機機械</StockKind>
+</Row>
+<Row>
+  <StockCode>FH</StockCode>
+  <StockNo>2101</StockNo>
+  <StockName>南港</StockName>
+  <StockKind>橡膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FI</StockCode>
+  <StockNo>2103</StockNo>
+  <StockName>台橡</StockName>
+  <StockKind>橡膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FJ</StockCode>
+  <StockNo>2104</StockNo>
+  <StockName>中橡</StockName>
+  <StockKind>橡膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FK</StockCode>
+  <StockNo>2105</StockNo>
+  <StockName>正新</StockName>
+  <StockKind>橡膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FL</StockCode>
+  <StockNo>2106</StockNo>
+  <StockName>建大</StockName>
+  <StockKind>橡膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FM</StockCode>
+  <StockNo>2107</StockNo>
+  <StockName>厚生</StockName>
+  <StockKind>橡膠工業</StockKind>
+</Row>
+<Row>
+  <StockCode>MH</StockCode>
+  <StockNo>1532</StockNo>
+  <StockName>勤美</StockName>
+  <StockKind>鋼鐵工業</StockKind>
+</Row>
+<Row>
+  <StockCode>MN</StockCode>
+  <StockNo>5007</StockNo>
+  <StockName>三星</StockName>
+  <StockKind>鋼鐵工業</StockKind>
+</Row>
+<Row>
+  <StockCode>CB</StockCode>
+  <StockNo>2002</StockNo>
+  <StockName>中鋼</StockName>
+  <StockKind>鋼鐵工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FB</StockCode>
+  <StockNo>2006</StockNo>
+  <StockName>東鋼</StockName>
+  <StockKind>鋼鐵工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FC</StockCode>
+  <StockNo>2014</StockNo>
+  <StockName>中鴻</StockName>
+  <StockKind>鋼鐵工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FD</StockCode>
+  <StockNo>2015</StockNo>
+  <StockName>豐興</StockName>
+  <StockKind>鋼鐵工業</StockKind>
+</Row>
+<Row>
+  <StockCode>FE</StockCode>
+  <StockNo>2027</StockNo>
+  <StockName>大成鋼</StockName>
+  <StockKind>鋼鐵工業</StockKind>
+</Row>
+<Row>
+  <StockCode>HT</StockCode>
+  <StockNo>2704</StockNo>
+  <StockName>國賓</StockName>
+  <StockKind>觀光事業</StockKind>
+</Row>
+<Row>
+  <StockCode>HU</StockCode>
+  <StockNo>2707</StockNo>
+  <StockName>晶華</StockName>
+  <StockKind>觀光事業</StockKind>
+</Row>
+<Row>
+  <StockCode>MW</StockCode>
+  <StockNo>3682</StockNo>
+  <StockName>亞太電</StockName>
+  <StockKind>通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>MY</StockCode>
+  <StockNo>1565</StockNo>
+  <StockName>精華</StockName>
+  <StockKind>生技醫療</StockKind>
+</Row>
+<Row>
+  <StockCode>MZ</StockCode>
+  <StockNo>1785</StockNo>
+  <StockName>光洋科</StockName>
+  <StockKind>其他電子</StockKind>
+</Row>
+<Row>
+  <StockCode>NA</StockCode>
+  <StockNo>3105</StockNo>
+  <StockName>穏懋</StockName>
+  <StockKind>半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>NB</StockCode>
+  <StockNo>3152</StockNo>
+  <StockName>璟德</StockName>
+  <StockKind>通信網路</StockKind>
+</Row>
+<Row>
+  <StockCode>NC</StockCode>
+  <StockNo>3211</StockNo>
+  <StockName>順達</StockName>
+  <StockKind>電腦及週邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>ND</StockCode>
+  <StockNo>3260</StockNo>
+  <StockName>威剛</StockName>
+  <StockKind>半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>NE</StockCode>
+  <StockNo>3264</StockNo>
+  <StockName>欣銓</StockName>
+  <StockKind>半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>NF</StockCode>
+  <StockNo>3658</StockNo>
+  <StockName>漢微科</StockName>
+  <StockKind>半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>NG</StockCode>
+  <StockNo>3691</StockNo>
+  <StockName>碩禾</StockName>
+  <StockKind>光電</StockKind>
+</Row>
+<Row>
+  <StockCode>NH</StockCode>
+  <StockNo>4105</StockNo>
+  <StockName>東洋</StockName>
+  <StockKind>生技醫療</StockKind>
+</Row>
+<Row>
+  <StockCode>NI</StockCode>
+  <StockNo>4123</StockNo>
+  <StockName>晟德</StockName>
+  <StockKind>生技醫療</StockKind>
+</Row>
+<Row>
+  <StockCode>NJ</StockCode>
+  <StockNo>5009</StockNo>
+  <StockName>榮剛</StockName>
+  <StockKind>鋼鐵</StockKind>
+</Row>
+<Row>
+  <StockCode>NK</StockCode>
+  <StockNo>5306</StockNo>
+  <StockName>桂盟</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+<Row>
+  <StockCode>NL</StockCode>
+  <StockNo>5347</StockNo>
+  <StockName>世界</StockName>
+  <StockKind>半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>NM</StockCode>
+  <StockNo>5371</StockNo>
+  <StockName>中光電</StockName>
+  <StockKind>電腦及周邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>NN</StockCode>
+  <StockNo>5478</StockNo>
+  <StockName>智冠</StockName>
+  <StockKind>文化創意</StockKind>
+</Row>
+<Row>
+  <StockCode>NO</StockCode>
+  <StockNo>5483</StockNo>
+  <StockName>中美晶</StockName>
+  <StockKind>半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>NP</StockCode>
+  <StockNo>5512</StockNo>
+  <StockName>力麒</StockName>
+  <StockKind>建材營造</StockKind>
+</Row>
+<Row>
+  <StockCode>NQ</StockCode>
+  <StockNo>6121</StockNo>
+  <StockName>新普</StockName>
+  <StockKind>電腦及周邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>NR</StockCode>
+  <StockNo>6146</StockNo>
+  <StockName>耕興</StockName>
+  <StockKind>其他電子</StockKind>
+</Row>
+<Row>
+  <StockCode>NS</StockCode>
+  <StockNo>6147</StockNo>
+  <StockName>頎邦</StockName>
+  <StockKind>半導體</StockKind>
+</Row>
+<Row>
+  <StockCode>NT</StockCode>
+  <StockNo>6244</StockNo>
+  <StockName>茂迪</StockName>
+  <StockKind>光電</StockKind>
+</Row>
+<Row>
+  <StockCode>NU</StockCode>
+  <StockNo>8044</StockNo>
+  <StockName>網家</StockName>
+  <StockKind>資訊服務</StockKind>
+</Row>
+<Row>
+  <StockCode>NV</StockCode>
+  <StockNo>8069</StockNo>
+  <StockName>元太</StockName>
+  <StockKind>光電</StockKind>
+</Row>
+<Row>
+  <StockCode>NW</StockCode>
+  <StockNo>8299</StockNo>
+  <StockName>群聯</StockName>
+  <StockKind>電腦及周邊設備</StockKind>
+</Row>
+<Row>
+  <StockCode>NX</StockCode>
+  <StockNo>8942</StockNo>
+  <StockName>森鉅</StockName>
+  <StockKind>其他</StockKind>
+</Row>
+</ProList>

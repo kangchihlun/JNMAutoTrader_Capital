@@ -1,0 +1,17 @@
+[4748] 2015/02/07 02:30:11.720 API InitInstance 
+[4748] 2015/02/07 02:30:11.724 SKOSQuoteLib_Initialize  ID¡GE122828927
+[4748] 2015/02/07 02:30:11.726 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+[4748] 2015/02/07 02:30:12.532 SKOSQuoteLib_AttachConnectCallBack
+[4748] 2015/02/07 02:30:12.534 SKOSQuoteLib_AttachQuoteCallBack
+[4748] 2015/02/07 02:30:12.536 SKOSQuoteLib_AttachTicksCallBack
+[4748] 2015/02/07 02:30:12.537 SKOSQuoteLib_AttachBest5CallBack
+[4748] 2015/02/07 02:30:12.539 SKOSQuoteLib_AttachServerTimeCallBack
+[4748] 2015/02/07 02:30:12.541 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4748] 2015/02/07 02:30:12.547 SKOSQuoteLib_EnterMonitor(0)
+[4748] 2015/02/07 02:30:12.549 Connect FORT13.capital.com.tw 443
+[4748] 2015/02/07 02:30:12.653 SK_SUBJECT_CONNECTION_CONNECTED¡ACode: 0
+[4748] 2015/02/07 02:30:16.134 SKOSQuoteLib_RequestServerTime()
+[4748] 2015/02/07 02:30:27.578 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[4748] 2015/02/07 02:30:31.145 SKOSQuoteLib_RequestServerTime()
+[4748] 2015/02/07 02:30:46.150 SKOSQuoteLib_RequestServerTime()
+[4748] 2015/02/07 02:31:01.158 SKOSQuoteLib_RequestServerTime()

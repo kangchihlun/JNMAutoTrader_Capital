@@ -1,0 +1,473 @@
+[1540] 2015/03/12 02:00:00.200 API InitInstance 
+[1540] 2015/03/12 02:00:00.202 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[3552] 2015/03/12 06:22:31.356 API InitInstance 
+[3552] 2015/03/12 06:22:31.360 SKOSQuoteLib_Initialize  ID：E122828927
+[3552] 2015/03/12 06:22:31.362 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[3552] 2015/03/12 06:22:32.515 SKOSQuoteLib_AttachConnectCallBack
+[3552] 2015/03/12 06:22:32.517 SKOSQuoteLib_AttachQuoteCallBack
+[3552] 2015/03/12 06:22:32.519 SKOSQuoteLib_AttachTicksCallBack
+[3552] 2015/03/12 06:22:32.521 SKOSQuoteLib_AttachBest5CallBack
+[3552] 2015/03/12 06:22:32.523 SKOSQuoteLib_AttachServerTimeCallBack
+[3552] 2015/03/12 06:22:32.526 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[3552] 2015/03/12 06:22:32.535 SKOSQuoteLib_EnterMonitor(0)
+[3552] 2015/03/12 06:22:32.536 Connect FORT07.capital.com.tw 443
+[3552] 2015/03/12 06:22:32.641 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[3552] 2015/03/12 06:22:43.973 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[3288] 2015/03/12 06:23:26.665 API InitInstance 
+[3288] 2015/03/12 06:23:26.670 SKOSQuoteLib_Initialize  ID：E122828927
+[3288] 2015/03/12 06:23:26.671 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[3288] 2015/03/12 06:23:27.527 SKOSQuoteLib_AttachConnectCallBack
+[3288] 2015/03/12 06:23:27.529 SKOSQuoteLib_AttachQuoteCallBack
+[3288] 2015/03/12 06:23:27.531 SKOSQuoteLib_AttachTicksCallBack
+[3288] 2015/03/12 06:23:27.533 SKOSQuoteLib_AttachBest5CallBack
+[3288] 2015/03/12 06:23:27.535 SKOSQuoteLib_AttachServerTimeCallBack
+[3288] 2015/03/12 06:23:27.537 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[3288] 2015/03/12 06:23:27.542 SKOSQuoteLib_EnterMonitor(0)
+[3288] 2015/03/12 06:23:27.543 Connect FORT13.capital.com.tw 443
+[3288] 2015/03/12 06:23:27.629 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[3288] 2015/03/12 06:23:32.982 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[2412] 2015/03/12 06:25:08.501 API InitInstance 
+[2412] 2015/03/12 06:25:08.505 SKOSQuoteLib_Initialize  ID：E122828927
+[2412] 2015/03/12 06:25:08.506 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[2412] 2015/03/12 06:25:10.475 SKOSQuoteLib_AttachConnectCallBack
+[2412] 2015/03/12 06:25:10.477 SKOSQuoteLib_AttachQuoteCallBack
+[2412] 2015/03/12 06:25:10.479 SKOSQuoteLib_AttachTicksCallBack
+[2412] 2015/03/12 06:25:10.481 SKOSQuoteLib_AttachBest5CallBack
+[2412] 2015/03/12 06:25:10.483 SKOSQuoteLib_AttachServerTimeCallBack
+[2412] 2015/03/12 06:25:10.485 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[2412] 2015/03/12 06:25:10.489 SKOSQuoteLib_EnterMonitor(0)
+[2412] 2015/03/12 06:25:10.491 Connect FORT05.capital.com.tw 443
+[2412] 2015/03/12 06:25:10.534 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[2412] 2015/03/12 06:25:18.117 SKOSQuoteLib_AttachOverseaProductsCallBack
+[2412] 2015/03/12 06:25:18.119 SKOSQuoteLib_RequestOverseaProducts()
+[2412] 2015/03/12 06:25:23.321 SKOSQuoteLib_AttachKLineDataCallBack
+[2412] 2015/03/12 06:25:23.323 SKOSQuoteLib_RequestKLine (OSE,JNM1503,0)
+[2412] 2015/03/12 06:25:27.762 SKOSQuoteLib_RequestKLine (OSE,JNMPM1503,0)
+[1476] 2015/03/12 19:52:30.497 API InitInstance 
+[1476] 2015/03/12 19:52:30.501 SKOSQuoteLib_Initialize  ID：E122828927
+[1476] 2015/03/12 19:52:30.502 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[1476] 2015/03/12 19:52:32.538 SKOSQuoteLib_AttachConnectCallBack
+[1476] 2015/03/12 19:52:32.540 SKOSQuoteLib_AttachQuoteCallBack
+[1476] 2015/03/12 19:52:32.542 SKOSQuoteLib_AttachTicksCallBack
+[1476] 2015/03/12 19:52:32.544 SKOSQuoteLib_AttachBest5CallBack
+[1476] 2015/03/12 19:52:32.546 SKOSQuoteLib_AttachServerTimeCallBack
+[1476] 2015/03/12 19:52:32.548 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[1476] 2015/03/12 19:52:32.553 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 19:52:32.555 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 19:52:32.592 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 19:52:40.293 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 19:55:09.097 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 19:55:09.104 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 19:55:09.133 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 19:55:09.135 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 19:55:09.137 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 19:55:09.176 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 19:55:09.178 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 19:57:45.707 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 19:57:45.714 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 19:57:45.717 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 19:57:45.718 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 19:57:45.721 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 19:57:45.734 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 19:57:45.736 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:00:22.267 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:00:22.274 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:00:22.277 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:00:22.278 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:00:22.281 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:00:22.290 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:00:22.293 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:02:58.723 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:02:58.730 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:02:58.733 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:02:58.734 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:02:58.736 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:02:58.782 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:02:58.784 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:05:35.218 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:05:35.225 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:05:35.237 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:05:35.239 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:05:35.248 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:05:35.307 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:05:35.309 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:08:11.819 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:08:11.825 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:08:11.828 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:08:11.829 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:08:11.831 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:08:11.842 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:08:11.843 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:10:48.440 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:10:48.443 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:10:48.445 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:10:48.445 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:10:48.446 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:10:48.476 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:10:48.477 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:13:24.975 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:13:24.982 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:13:24.985 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:13:24.987 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:13:24.989 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:13:25.001 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:13:25.003 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:16:01.509 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:16:01.516 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:16:01.519 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:16:01.521 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:16:01.523 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:16:01.550 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:16:01.553 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:18:38.025 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:18:38.032 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:18:38.035 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:18:38.036 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:18:38.038 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:18:38.050 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:18:38.052 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:21:14.661 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:21:14.668 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:21:14.671 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:21:14.672 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:21:14.675 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:21:14.686 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:21:14.688 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:23:51.181 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:23:51.188 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:23:51.191 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:23:51.192 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:23:51.195 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:23:51.206 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:23:51.209 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:26:27.086 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:26:27.093 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:26:27.096 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:26:27.098 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:26:27.100 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:26:27.146 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:26:27.148 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:29:03.601 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:29:03.608 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:29:03.611 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:29:03.612 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:29:03.614 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:29:03.623 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:29:03.625 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:31:40.130 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:31:40.137 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:31:40.140 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:31:40.142 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:31:40.144 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:31:40.157 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:31:40.159 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:34:16.614 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:34:16.621 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:34:16.624 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:34:16.626 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:34:16.628 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:34:16.639 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:34:16.641 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:36:53.063 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:36:53.070 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:36:53.073 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:36:53.075 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:36:53.077 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:36:53.119 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:36:53.122 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:39:29.547 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:39:29.554 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:39:29.558 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:39:29.559 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:39:29.561 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:39:29.591 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:39:29.595 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:42:06.623 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:42:06.630 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:42:06.634 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:42:06.636 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:42:06.638 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:42:06.683 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:42:06.685 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:44:43.133 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:44:43.140 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:44:43.143 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:44:43.145 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:44:43.147 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:44:43.169 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:44:43.172 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:47:19.755 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:47:19.762 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:47:19.765 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:47:19.767 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:47:19.769 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:47:19.797 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:47:19.799 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:49:56.268 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:49:56.275 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:49:56.278 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:49:56.280 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:49:56.282 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:49:56.314 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:49:56.316 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:52:32.811 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:52:32.818 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:52:32.821 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:52:32.823 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:52:32.825 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:52:32.846 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:52:32.849 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:55:08.575 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:55:08.578 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:55:08.580 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:55:08.581 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:55:08.582 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:55:08.602 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:55:08.603 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 20:57:45.006 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 20:57:45.013 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 20:57:45.016 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 20:57:45.017 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 20:57:45.020 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 20:57:45.049 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 20:57:45.051 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:00:21.546 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:00:21.553 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:00:21.556 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:00:21.557 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:00:21.560 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:00:21.571 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:00:21.573 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:02:57.977 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:02:57.984 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:02:57.987 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:02:57.988 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:02:57.991 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:02:58.004 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:02:58.007 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:05:34.515 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:05:34.522 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:05:34.525 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:05:34.527 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:05:34.529 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:05:34.542 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:05:34.544 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:08:11.034 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:08:11.041 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:08:11.044 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:08:11.046 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:08:11.048 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:08:11.089 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:08:11.092 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:10:47.740 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:10:47.743 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:10:47.745 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:10:47.746 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:10:47.747 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:10:47.790 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:10:47.791 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:13:24.327 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:13:24.334 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:13:24.337 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:13:24.339 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:13:24.341 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:13:24.357 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:13:24.359 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:16:00.850 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:16:00.858 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:16:00.861 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:16:00.863 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:16:00.865 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:16:00.878 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:16:00.880 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:18:37.394 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:18:37.401 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:18:37.404 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:18:37.406 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:18:37.408 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:18:37.419 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:18:37.421 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:21:13.912 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:21:13.919 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:21:13.922 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:21:13.923 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:21:13.926 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:21:13.962 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:21:13.965 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:23:50.565 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:23:50.572 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:23:50.575 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:23:50.577 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:23:50.579 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:23:50.593 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:23:50.595 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:26:26.687 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:26:26.691 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:26:26.692 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:26:26.693 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:26:26.694 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:26:26.721 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:26:26.722 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:29:03.179 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:29:03.186 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:29:03.189 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:29:03.191 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:29:03.193 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:29:03.205 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:29:03.208 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:31:39.645 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:31:39.652 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:31:39.656 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:31:39.657 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:31:39.659 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:31:39.687 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:31:39.690 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:34:16.061 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:34:16.068 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:34:16.071 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:34:16.072 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:34:16.074 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:34:16.096 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:34:16.098 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:36:52.525 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:36:52.532 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:36:52.535 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:36:52.537 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:36:52.539 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:36:52.565 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:36:52.567 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:39:28.978 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:39:28.985 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:39:28.988 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:39:28.990 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:39:28.992 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:39:29.003 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:39:29.006 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:42:06.072 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:42:06.075 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:42:06.077 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:42:06.078 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:42:06.079 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:42:06.119 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:42:06.120 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:44:42.522 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:44:42.529 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:44:42.532 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:44:42.534 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:44:42.536 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:44:42.548 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:44:42.550 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:47:19.026 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:47:19.033 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:47:19.036 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:47:19.038 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:47:19.040 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:47:19.049 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:47:19.051 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:49:55.413 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:49:55.420 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:49:55.423 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:49:55.425 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:49:55.427 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:49:55.439 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:49:55.442 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:52:31.876 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:52:31.883 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:52:31.886 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:52:31.887 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:52:31.890 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:52:33.134 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:52:33.136 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:55:09.512 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:55:09.519 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:55:09.522 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:55:09.523 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:55:09.526 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:55:09.535 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:55:09.538 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 21:57:45.200 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 21:57:45.207 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 21:57:45.210 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 21:57:45.212 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 21:57:45.214 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 21:57:45.260 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 21:57:45.262 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 22:00:21.817 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 22:00:21.824 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 22:00:21.827 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 22:00:21.828 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 22:00:21.831 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 22:00:21.842 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 22:00:21.844 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 22:02:58.233 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 22:02:58.240 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 22:02:58.243 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 22:02:58.245 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 22:02:58.247 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 22:02:58.260 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 22:02:58.263 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 22:05:34.689 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 22:05:34.696 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 22:05:34.699 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 22:05:34.701 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 22:05:34.703 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 22:05:34.740 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 22:05:34.742 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 22:08:11.199 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 22:08:11.205 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 22:08:11.208 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 22:08:11.210 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 22:08:11.212 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 22:08:11.226 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 22:08:11.230 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 22:10:47.690 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 22:10:47.696 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 22:10:47.700 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 22:10:47.701 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 22:10:47.703 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 22:10:47.718 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 22:10:47.720 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 22:13:24.570 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 22:13:24.577 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 22:13:24.581 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 22:13:24.583 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 22:13:24.585 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 22:13:24.609 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 22:13:24.611 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 22:16:01.117 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 22:16:01.124 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 22:16:01.127 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 22:16:01.128 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 22:16:01.131 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 22:16:01.176 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 22:16:01.178 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 22:18:37.759 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 22:18:37.766 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 22:18:37.769 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 22:18:37.770 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 22:18:37.773 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 22:18:37.787 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 22:18:37.789 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 22:21:14.234 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 22:21:14.241 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 22:21:14.244 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 22:21:14.245 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 22:21:14.248 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 22:21:14.257 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 22:21:14.259 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/12 22:23:50.846 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[1476] 2015/03/12 22:23:50.853 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/12 22:23:50.856 SKOSQuoteLib_EnterMonitor(0)
+[1476] 2015/03/12 22:23:50.858 Connect FORT13.capital.com.tw 443
+[1476] 2015/03/12 22:23:50.860 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[1476] 2015/03/12 22:23:50.888 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[1476] 2015/03/12 22:23:50.890 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[1476] 2015/03/13 02:00:04.513 SKOSQuoteLib_LeaveMonitor()
+[1476] 2015/03/13 02:00:04.514 連線中斷，Code: 10053 , The virtual circuit was terminated due to a time-out or other failure. The application should close the socket as it is no longer usable.
+[1476] 2015/03/13 02:00:04.613 SocketDisconnect 斷線CALLBACK通知
+[1476] 2015/03/13 02:00:04.615 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10053
+[1476] 2015/03/13 02:00:04.626 SKOSQuoteLib_LeaveMonitor()
+[1476] 2015/03/13 02:00:04.781 SKOSQuoteLib_LeaveMonitor()
+[1476] 2015/03/13 02:00:04.865 SKOSQuoteLib_LeaveMonitor()
+[1476] 2015/03/13 02:00:04.971 SKOSQuoteLib_LeaveMonitor()
+[1476] 2015/03/13 02:00:05.639 SKOSQuoteLib_LeaveMonitor()

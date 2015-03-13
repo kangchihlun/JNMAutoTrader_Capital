@@ -1,0 +1,22 @@
+[2072] 2015/03/13 02:00:05.771 API InitInstance 
+[2072] 2015/03/13 02:00:05.772 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[200] 2015/03/13 02:30:10.660 API InitInstance 
+[200] 2015/03/13 02:30:10.665 SKOSQuoteLib_Initialize  ID：E122828927
+[200] 2015/03/13 02:30:10.667 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[200] 2015/03/13 02:30:11.347 SKOSQuoteLib_AttachConnectCallBack
+[200] 2015/03/13 02:30:11.349 SKOSQuoteLib_AttachQuoteCallBack
+[200] 2015/03/13 02:30:11.351 SKOSQuoteLib_AttachTicksCallBack
+[200] 2015/03/13 02:30:11.353 SKOSQuoteLib_AttachBest5CallBack
+[200] 2015/03/13 02:30:11.355 SKOSQuoteLib_AttachServerTimeCallBack
+[200] 2015/03/13 02:30:11.357 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[200] 2015/03/13 02:30:11.362 SKOSQuoteLib_EnterMonitor(0)
+[200] 2015/03/13 02:30:11.364 Connect FORT03.capital.com.tw 443
+[200] 2015/03/13 02:30:11.405 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[200] 2015/03/13 02:30:20.460 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[200] 2015/03/13 02:32:47.601 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+[200] 2015/03/13 02:32:47.608 SocketDisconnect 斷線CALLBACK通知
+[200] 2015/03/13 02:32:47.639 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+[3644] 2015/03/13 07:40:27.921 API InitInstance 
+[3644] 2015/03/13 07:40:27.924 SKOSQuoteLib_AttachOverseaProductsCallBack   SK_ERROR_INITIALIZE_FAIL 
+[3644] 2015/03/13 07:40:27.927 SKOSQuoteLib_RequestOverseaProducts   SK_ERROR_INITIALIZE_FAIL 
+[3644] 2015/03/13 07:40:34.647 API ExitInstance 

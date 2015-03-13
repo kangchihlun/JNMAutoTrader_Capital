@@ -1,0 +1,34 @@
+C:\Independent DLLs\SKComponent\x64\Release\OSQuoteTesterVC.exe
+C:\Independent DLLs\SKComponent\x64\Release\OSQuoteTesterVC.pdb
+C:\Independent DLLs\SKComponent\OSQuoteTesterVC\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Independent DLLs\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTester.Main.resources
+C:\Independent DLLs\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTester.Properties.Resources.resources
+C:\Independent DLLs\SKComponent\OSQuoteTesterVC\obj\x64\Release\GenerateResource.read.1.tlog
+C:\Independent DLLs\SKComponent\OSQuoteTesterVC\obj\x64\Release\GenerateResource.write.1.tlog
+C:\Independent DLLs\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTesterVC.exe
+C:\Independent DLLs\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTesterVC.pdb
+C:\Independent DLLs\舊版本\SKComponent\x64\Release\OSQuoteTesterVC.exe
+C:\Independent DLLs\舊版本\SKComponent\x64\Release\OSQuoteTesterVC.pdb
+C:\Independent DLLs\舊版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Independent DLLs\舊版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTester.Main.resources
+C:\Independent DLLs\舊版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTester.Properties.Resources.resources
+C:\Independent DLLs\舊版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\GenerateResource.read.1.tlog
+C:\Independent DLLs\舊版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\GenerateResource.write.1.tlog
+C:\Independent DLLs\舊版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTesterVC.exe
+C:\Independent DLLs\舊版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTesterVC.pdb
+C:\Independent DLLs\新版本\SKComponent\x64\Release\OSQuoteTesterVC.exe
+C:\Independent DLLs\新版本\SKComponent\x64\Release\OSQuoteTesterVC.pdb
+C:\Independent DLLs\新版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Independent DLLs\新版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTester.Main.resources
+C:\Independent DLLs\新版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTester.Properties.Resources.resources
+C:\Independent DLLs\新版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\GenerateResource.read.1.tlog
+C:\Independent DLLs\新版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\GenerateResource.write.1.tlog
+C:\Independent DLLs\新版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTesterVC.exe
+C:\Independent DLLs\新版本\SKComponent\OSQuoteTesterVC\obj\x64\Release\OSQuoteTesterVC.pdb
+C:\AutoFuture\AutoTrading_Resources\CapitalApi\海期報價API_2.5.3\Dot Net範例( VS2010 )\OSQuoteTesterVC\obj\x64\Release\OSQuoteTesterVC.exe
+C:\AutoFuture\AutoTrading_Resources\CapitalApi\海期報價API_2.5.3\Dot Net範例( VS2010 )\OSQuoteTesterVC\obj\x64\Release\OSQuoteTesterVC.pdb
+C:\AutoFuture\AutoTrading_Resources\CapitalApi\海期報價API_2.5.3\Dot Net範例( VS2010 )\x64\Release\OSQuoteTesterVC.exe
+C:\AutoFuture\AutoTrading_Resources\CapitalApi\海期報價API_2.5.3\Dot Net範例( VS2010 )\x64\Release\OSQuoteTesterVC.pdb
+C:\AutoFuture\AutoTrading_Resources\CapitalApi\海期報價API_2.5.3\Dot Net範例( VS2010 )\OSQuoteTesterVC\obj\x64\Release\OSQuoteTester.Main.resources
+C:\AutoFuture\AutoTrading_Resources\CapitalApi\海期報價API_2.5.3\Dot Net範例( VS2010 )\OSQuoteTesterVC\obj\x64\Release\OSQuoteTester.Properties.Resources.resources
+C:\AutoFuture\AutoTrading_Resources\CapitalApi\海期報價API_2.5.3\Dot Net範例( VS2010 )\OSQuoteTesterVC\obj\x64\Release\OSQuoteTesterVC.csproj.GenerateResource.Cache

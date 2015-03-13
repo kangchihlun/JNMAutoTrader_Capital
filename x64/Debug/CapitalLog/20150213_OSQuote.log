@@ -1,0 +1,665 @@
+[4584] 2015/02/13 06:38:06.060 API InitInstance 
+[4584] 2015/02/13 06:38:06.065 SKOSQuoteLib_Initialize  ID：E122828927
+[4584] 2015/02/13 06:38:06.066 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[4584] 2015/02/13 06:38:06.726 SKOSQuoteLib_AttachConnectCallBack
+[4584] 2015/02/13 06:38:06.728 SKOSQuoteLib_AttachQuoteCallBack
+[4584] 2015/02/13 06:38:06.730 SKOSQuoteLib_AttachTicksCallBack
+[4584] 2015/02/13 06:38:06.732 SKOSQuoteLib_AttachBest5CallBack
+[4584] 2015/02/13 06:38:06.734 SKOSQuoteLib_AttachServerTimeCallBack
+[4584] 2015/02/13 06:38:06.736 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4584] 2015/02/13 06:38:06.742 SKOSQuoteLib_EnterMonitor(0)
+[4584] 2015/02/13 06:38:06.743 Connect FORT15.capital.com.tw 443
+[4584] 2015/02/13 06:38:06.785 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4584] 2015/02/13 06:38:15.679 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[4584] 2015/02/13 06:39:52.852 連線中斷，Code: 0 , Connection closed successfully.
+[4584] 2015/02/13 06:39:52.854 SocketDisconnect 斷線CALLBACK通知
+[4584] 2015/02/13 06:39:52.861 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 0
+[3516] 2015/02/13 06:45:36.398 API InitInstance 
+[3516] 2015/02/13 06:45:36.403 SKOSQuoteLib_Initialize  ID：E122828927
+[3516] 2015/02/13 06:45:36.404 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[3516] 2015/02/13 06:45:37.387 SKOSQuoteLib_AttachConnectCallBack
+[3516] 2015/02/13 06:45:37.390 SKOSQuoteLib_AttachQuoteCallBack
+[3516] 2015/02/13 06:45:37.392 SKOSQuoteLib_AttachTicksCallBack
+[3516] 2015/02/13 06:45:37.394 SKOSQuoteLib_AttachBest5CallBack
+[3516] 2015/02/13 06:45:37.396 SKOSQuoteLib_AttachServerTimeCallBack
+[3516] 2015/02/13 06:45:37.398 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[3516] 2015/02/13 06:45:37.402 SKOSQuoteLib_EnterMonitor(0)
+[3516] 2015/02/13 06:45:37.404 Connect FORT05.capital.com.tw 443
+[3516] 2015/02/13 06:45:37.509 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[3516] 2015/02/13 06:45:41.154 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[2524] 2015/02/13 06:47:19.871 API InitInstance 
+[2524] 2015/02/13 06:47:19.876 SKOSQuoteLib_Initialize  ID：E122828927
+[2524] 2015/02/13 06:47:19.877 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[2524] 2015/02/13 06:47:20.618 SKOSQuoteLib_AttachConnectCallBack
+[2524] 2015/02/13 06:47:20.620 SKOSQuoteLib_AttachQuoteCallBack
+[2524] 2015/02/13 06:47:20.621 SKOSQuoteLib_AttachTicksCallBack
+[2524] 2015/02/13 06:47:20.623 SKOSQuoteLib_AttachBest5CallBack
+[2524] 2015/02/13 06:47:20.625 SKOSQuoteLib_AttachServerTimeCallBack
+[2524] 2015/02/13 06:47:20.627 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[2524] 2015/02/13 06:47:20.631 SKOSQuoteLib_EnterMonitor(0)
+[2524] 2015/02/13 06:47:20.632 Connect FORT15.capital.com.tw 443
+[2524] 2015/02/13 06:47:20.675 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[2524] 2015/02/13 06:47:23.140 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[6820] 2015/02/13 06:49:50.501 API InitInstance 
+[6820] 2015/02/13 06:49:50.505 SKOSQuoteLib_Initialize  ID：E122828927
+[6820] 2015/02/13 06:49:50.507 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[6820] 2015/02/13 06:49:51.691 SKOSQuoteLib_AttachConnectCallBack
+[6820] 2015/02/13 06:49:51.694 SKOSQuoteLib_AttachQuoteCallBack
+[6820] 2015/02/13 06:49:51.696 SKOSQuoteLib_AttachTicksCallBack
+[6820] 2015/02/13 06:49:51.697 SKOSQuoteLib_AttachBest5CallBack
+[6820] 2015/02/13 06:49:51.700 SKOSQuoteLib_AttachServerTimeCallBack
+[6820] 2015/02/13 06:49:51.702 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[6820] 2015/02/13 06:49:51.706 SKOSQuoteLib_EnterMonitor(0)
+[6820] 2015/02/13 06:49:51.708 Connect FORT03.capital.com.tw 443
+[6820] 2015/02/13 06:49:51.890 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[6820] 2015/02/13 06:50:01.839 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[6692] 2015/02/13 06:51:08.564 API InitInstance 
+[6692] 2015/02/13 06:51:08.565 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[6692] 2015/02/13 06:51:08.649 API ExitInstance 
+[6888] 2015/02/13 06:51:11.129 API InitInstance 
+[6888] 2015/02/13 06:51:11.133 SKOSQuoteLib_Initialize  ID：E122828927
+[6888] 2015/02/13 06:51:11.134 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[6888] 2015/02/13 06:51:11.936 SKOSQuoteLib_AttachConnectCallBack
+[6888] 2015/02/13 06:51:11.938 SKOSQuoteLib_AttachQuoteCallBack
+[6888] 2015/02/13 06:51:11.940 SKOSQuoteLib_AttachTicksCallBack
+[6888] 2015/02/13 06:51:11.942 SKOSQuoteLib_AttachBest5CallBack
+[6888] 2015/02/13 06:51:11.944 SKOSQuoteLib_AttachServerTimeCallBack
+[6888] 2015/02/13 06:51:11.946 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[6888] 2015/02/13 06:51:11.950 SKOSQuoteLib_EnterMonitor(0)
+[6888] 2015/02/13 06:51:11.952 Connect FORT09.capital.com.tw 443
+[6888] 2015/02/13 06:51:12.025 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[6888] 2015/02/13 06:51:16.809 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[6268] 2015/02/13 06:54:25.406 API InitInstance 
+[6268] 2015/02/13 06:54:25.408 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[6268] 2015/02/13 06:54:25.457 API ExitInstance 
+[4168] 2015/02/13 06:54:27.141 API InitInstance 
+[4168] 2015/02/13 06:54:27.146 SKOSQuoteLib_Initialize  ID：E122828927
+[4168] 2015/02/13 06:54:27.147 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[4168] 2015/02/13 06:54:27.889 SKOSQuoteLib_AttachConnectCallBack
+[4168] 2015/02/13 06:54:27.891 SKOSQuoteLib_AttachQuoteCallBack
+[4168] 2015/02/13 06:54:27.893 SKOSQuoteLib_AttachTicksCallBack
+[4168] 2015/02/13 06:54:27.895 SKOSQuoteLib_AttachBest5CallBack
+[4168] 2015/02/13 06:54:27.897 SKOSQuoteLib_AttachServerTimeCallBack
+[4168] 2015/02/13 06:54:27.899 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4168] 2015/02/13 06:54:27.903 SKOSQuoteLib_EnterMonitor(0)
+[4168] 2015/02/13 06:54:27.905 Connect FORT09.capital.com.tw 443
+[4168] 2015/02/13 06:54:27.955 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4168] 2015/02/13 06:54:33.880 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[2148] 2015/02/13 06:55:00.182 API InitInstance 
+[2148] 2015/02/13 06:55:00.184 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[2148] 2015/02/13 06:55:00.279 API ExitInstance 
+[5048] 2015/02/13 06:55:03.760 API InitInstance 
+[5048] 2015/02/13 06:55:03.765 SKOSQuoteLib_Initialize  ID：E122828927
+[5048] 2015/02/13 06:55:03.767 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[5048] 2015/02/13 06:55:04.527 SKOSQuoteLib_AttachConnectCallBack
+[5048] 2015/02/13 06:55:04.530 SKOSQuoteLib_AttachQuoteCallBack
+[5048] 2015/02/13 06:55:04.532 SKOSQuoteLib_AttachTicksCallBack
+[5048] 2015/02/13 06:55:04.534 SKOSQuoteLib_AttachBest5CallBack
+[5048] 2015/02/13 06:55:04.536 SKOSQuoteLib_AttachServerTimeCallBack
+[5048] 2015/02/13 06:55:04.538 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[5048] 2015/02/13 06:55:04.543 SKOSQuoteLib_EnterMonitor(0)
+[5048] 2015/02/13 06:55:04.545 Connect FORT09.capital.com.tw 443
+[5048] 2015/02/13 06:55:04.588 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[5048] 2015/02/13 06:55:08.531 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[1652] 2015/02/13 06:55:41.191 API InitInstance 
+[1652] 2015/02/13 06:55:41.192 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[1652] 2015/02/13 06:55:41.266 API ExitInstance 
+[4528] 2015/02/13 06:55:52.362 API InitInstance 
+[4528] 2015/02/13 06:55:52.366 SKOSQuoteLib_Initialize  ID：E122828927
+[4528] 2015/02/13 06:55:52.368 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[4528] 2015/02/13 06:55:53.131 SKOSQuoteLib_AttachConnectCallBack
+[4528] 2015/02/13 06:55:53.134 SKOSQuoteLib_AttachQuoteCallBack
+[4528] 2015/02/13 06:55:53.136 SKOSQuoteLib_AttachTicksCallBack
+[4528] 2015/02/13 06:55:53.137 SKOSQuoteLib_AttachBest5CallBack
+[4528] 2015/02/13 06:55:53.140 SKOSQuoteLib_AttachServerTimeCallBack
+[4528] 2015/02/13 06:55:53.142 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4528] 2015/02/13 06:55:53.146 SKOSQuoteLib_EnterMonitor(0)
+[4528] 2015/02/13 06:55:53.148 Connect FORT01.capital.com.tw 443
+[4528] 2015/02/13 06:55:53.197 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4528] 2015/02/13 06:55:55.765 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[6876] 2015/02/13 07:04:10.600 API InitInstance 
+[6876] 2015/02/13 07:04:10.601 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[6876] 2015/02/13 07:04:10.657 API ExitInstance 
+[4664] 2015/02/13 07:04:12.216 API InitInstance 
+[4664] 2015/02/13 07:04:12.220 SKOSQuoteLib_Initialize  ID：E122828927
+[4664] 2015/02/13 07:04:12.222 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[4664] 2015/02/13 07:04:13.024 SKOSQuoteLib_AttachConnectCallBack
+[4664] 2015/02/13 07:04:13.026 SKOSQuoteLib_AttachQuoteCallBack
+[4664] 2015/02/13 07:04:13.028 SKOSQuoteLib_AttachTicksCallBack
+[4664] 2015/02/13 07:04:13.030 SKOSQuoteLib_AttachBest5CallBack
+[4664] 2015/02/13 07:04:13.032 SKOSQuoteLib_AttachServerTimeCallBack
+[4664] 2015/02/13 07:04:13.034 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4664] 2015/02/13 07:04:13.039 SKOSQuoteLib_EnterMonitor(0)
+[4664] 2015/02/13 07:04:13.040 Connect FORT09.capital.com.tw 443
+[4664] 2015/02/13 07:04:13.089 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4664] 2015/02/13 07:04:14.975 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[128] 2015/02/13 07:06:43.436 API InitInstance 
+[128] 2015/02/13 07:06:43.437 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[128] 2015/02/13 07:06:43.517 API ExitInstance 
+[5676] 2015/02/13 07:06:46.120 API InitInstance 
+[5676] 2015/02/13 07:06:46.124 SKOSQuoteLib_Initialize  ID：E122828927
+[5676] 2015/02/13 07:06:46.126 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[5676] 2015/02/13 07:06:46.886 SKOSQuoteLib_AttachConnectCallBack
+[5676] 2015/02/13 07:06:46.888 SKOSQuoteLib_AttachQuoteCallBack
+[5676] 2015/02/13 07:06:46.890 SKOSQuoteLib_AttachTicksCallBack
+[5676] 2015/02/13 07:06:46.892 SKOSQuoteLib_AttachBest5CallBack
+[5676] 2015/02/13 07:06:46.894 SKOSQuoteLib_AttachServerTimeCallBack
+[5676] 2015/02/13 07:06:46.896 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[5676] 2015/02/13 07:06:46.901 SKOSQuoteLib_EnterMonitor(0)
+[5676] 2015/02/13 07:06:46.902 Connect FORT05.capital.com.tw 443
+[5676] 2015/02/13 07:06:46.955 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[5676] 2015/02/13 07:06:49.361 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[6100] 2015/02/13 07:08:16.511 API InitInstance 
+[6100] 2015/02/13 07:08:16.513 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[6100] 2015/02/13 07:08:16.692 API ExitInstance 
+[5636] 2015/02/13 07:08:18.878 API InitInstance 
+[5636] 2015/02/13 07:08:18.883 SKOSQuoteLib_Initialize  ID：E122828927
+[5636] 2015/02/13 07:08:18.885 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[5636] 2015/02/13 07:08:19.665 SKOSQuoteLib_AttachConnectCallBack
+[5636] 2015/02/13 07:08:19.667 SKOSQuoteLib_AttachQuoteCallBack
+[5636] 2015/02/13 07:08:19.670 SKOSQuoteLib_AttachTicksCallBack
+[5636] 2015/02/13 07:08:19.671 SKOSQuoteLib_AttachBest5CallBack
+[5636] 2015/02/13 07:08:19.673 SKOSQuoteLib_AttachServerTimeCallBack
+[5636] 2015/02/13 07:08:19.676 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[5636] 2015/02/13 07:08:19.680 SKOSQuoteLib_EnterMonitor(0)
+[5636] 2015/02/13 07:08:19.682 Connect FORT07.capital.com.tw 443
+[5636] 2015/02/13 07:08:19.753 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[5636] 2015/02/13 07:08:24.803 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[3240] 2015/02/13 07:09:13.894 API InitInstance 
+[3240] 2015/02/13 07:09:13.896 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[3240] 2015/02/13 07:09:13.957 API ExitInstance 
+[6016] 2015/02/13 07:09:15.555 API InitInstance 
+[6016] 2015/02/13 07:09:15.560 SKOSQuoteLib_Initialize  ID：E122828927
+[6016] 2015/02/13 07:09:15.561 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[6016] 2015/02/13 07:09:16.326 SKOSQuoteLib_AttachConnectCallBack
+[6016] 2015/02/13 07:09:16.329 SKOSQuoteLib_AttachQuoteCallBack
+[6016] 2015/02/13 07:09:16.331 SKOSQuoteLib_AttachTicksCallBack
+[6016] 2015/02/13 07:09:16.333 SKOSQuoteLib_AttachBest5CallBack
+[6016] 2015/02/13 07:09:16.335 SKOSQuoteLib_AttachServerTimeCallBack
+[6016] 2015/02/13 07:09:16.337 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[6016] 2015/02/13 07:09:16.341 SKOSQuoteLib_EnterMonitor(0)
+[6016] 2015/02/13 07:09:16.343 Connect FORT03.capital.com.tw 443
+[6016] 2015/02/13 07:09:16.389 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[6016] 2015/02/13 07:09:20.267 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[4176] 2015/02/13 07:11:49.745 API InitInstance 
+[4176] 2015/02/13 07:11:49.747 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[4176] 2015/02/13 07:11:49.838 API ExitInstance 
+[2676] 2015/02/13 07:11:52.281 API InitInstance 
+[2676] 2015/02/13 07:11:52.285 SKOSQuoteLib_Initialize  ID：E122828927
+[2676] 2015/02/13 07:11:52.287 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[2676] 2015/02/13 07:11:53.018 SKOSQuoteLib_AttachConnectCallBack
+[2676] 2015/02/13 07:11:53.020 SKOSQuoteLib_AttachQuoteCallBack
+[2676] 2015/02/13 07:11:53.022 SKOSQuoteLib_AttachTicksCallBack
+[2676] 2015/02/13 07:11:53.024 SKOSQuoteLib_AttachBest5CallBack
+[2676] 2015/02/13 07:11:53.026 SKOSQuoteLib_AttachServerTimeCallBack
+[2676] 2015/02/13 07:11:53.028 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[2676] 2015/02/13 07:11:53.032 SKOSQuoteLib_EnterMonitor(0)
+[2676] 2015/02/13 07:11:53.034 Connect FORT01.capital.com.tw 443
+[2676] 2015/02/13 07:11:53.090 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[2676] 2015/02/13 07:11:57.990 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[2676] 2015/02/13 07:13:06.002 API ExitInstance 
+[5512] 2015/02/13 10:18:16.753 API InitInstance 
+[5512] 2015/02/13 10:18:16.758 SKOSQuoteLib_Initialize  ID：E122828927
+[5512] 2015/02/13 10:18:16.759 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[5512] 2015/02/13 10:18:17.573 SKOSQuoteLib_AttachConnectCallBack
+[5512] 2015/02/13 10:18:17.576 SKOSQuoteLib_AttachQuoteCallBack
+[5512] 2015/02/13 10:18:17.578 SKOSQuoteLib_AttachTicksCallBack
+[5512] 2015/02/13 10:18:17.579 SKOSQuoteLib_AttachBest5CallBack
+[5512] 2015/02/13 10:18:17.581 SKOSQuoteLib_AttachServerTimeCallBack
+[5512] 2015/02/13 10:18:17.584 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[5512] 2015/02/13 10:18:17.589 SKOSQuoteLib_EnterMonitor(0)
+[5512] 2015/02/13 10:18:17.591 Connect FORT07.capital.com.tw 443
+[5512] 2015/02/13 10:18:17.651 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[5512] 2015/02/13 10:18:21.985 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[4484] 2015/02/13 10:19:42.153 API InitInstance 
+[4484] 2015/02/13 10:19:42.157 SKOSQuoteLib_Initialize  ID：E122828927
+[4484] 2015/02/13 10:19:42.159 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[4484] 2015/02/13 10:19:42.964 SKOSQuoteLib_AttachConnectCallBack
+[4484] 2015/02/13 10:19:42.967 SKOSQuoteLib_AttachQuoteCallBack
+[4484] 2015/02/13 10:19:42.969 SKOSQuoteLib_AttachTicksCallBack
+[4484] 2015/02/13 10:19:42.970 SKOSQuoteLib_AttachBest5CallBack
+[4484] 2015/02/13 10:19:42.973 SKOSQuoteLib_AttachServerTimeCallBack
+[4484] 2015/02/13 10:19:42.975 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4484] 2015/02/13 10:19:42.980 SKOSQuoteLib_EnterMonitor(0)
+[4484] 2015/02/13 10:19:42.981 Connect FORT05.capital.com.tw 443
+[4484] 2015/02/13 10:19:43.037 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4484] 2015/02/13 10:19:47.780 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[7072] 2015/02/13 10:21:19.489 API InitInstance 
+[7072] 2015/02/13 10:21:19.493 SKOSQuoteLib_Initialize  ID：E122828927
+[7072] 2015/02/13 10:21:19.495 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[7072] 2015/02/13 10:21:20.263 SKOSQuoteLib_AttachConnectCallBack
+[7072] 2015/02/13 10:21:20.265 SKOSQuoteLib_AttachQuoteCallBack
+[7072] 2015/02/13 10:21:20.268 SKOSQuoteLib_AttachTicksCallBack
+[7072] 2015/02/13 10:21:20.269 SKOSQuoteLib_AttachBest5CallBack
+[7072] 2015/02/13 10:21:20.271 SKOSQuoteLib_AttachServerTimeCallBack
+[7072] 2015/02/13 10:21:20.274 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[7072] 2015/02/13 10:21:20.278 SKOSQuoteLib_EnterMonitor(0)
+[7072] 2015/02/13 10:21:20.280 Connect FORT07.capital.com.tw 443
+[7072] 2015/02/13 10:21:20.327 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[7072] 2015/02/13 10:21:22.531 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[3820] 2015/02/13 10:22:14.386 API InitInstance 
+[3820] 2015/02/13 10:22:14.391 SKOSQuoteLib_Initialize  ID：E122828927
+[3820] 2015/02/13 10:22:14.393 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[3820] 2015/02/13 10:22:15.238 SKOSQuoteLib_AttachConnectCallBack
+[3820] 2015/02/13 10:22:15.240 SKOSQuoteLib_AttachQuoteCallBack
+[3820] 2015/02/13 10:22:15.242 SKOSQuoteLib_AttachTicksCallBack
+[3820] 2015/02/13 10:22:15.244 SKOSQuoteLib_AttachBest5CallBack
+[3820] 2015/02/13 10:22:15.246 SKOSQuoteLib_AttachServerTimeCallBack
+[3820] 2015/02/13 10:22:15.248 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[3820] 2015/02/13 10:22:15.253 SKOSQuoteLib_EnterMonitor(0)
+[3820] 2015/02/13 10:22:15.255 Connect FORT09.capital.com.tw 443
+[3820] 2015/02/13 10:22:15.293 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[3820] 2015/02/13 10:22:17.090 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[6436] 2015/02/13 10:23:08.552 API InitInstance 
+[6436] 2015/02/13 10:23:08.556 SKOSQuoteLib_Initialize  ID：E122828927
+[6436] 2015/02/13 10:23:08.557 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[6436] 2015/02/13 10:23:09.381 SKOSQuoteLib_AttachConnectCallBack
+[6436] 2015/02/13 10:23:09.383 SKOSQuoteLib_AttachQuoteCallBack
+[6436] 2015/02/13 10:23:09.386 SKOSQuoteLib_AttachTicksCallBack
+[6436] 2015/02/13 10:23:09.387 SKOSQuoteLib_AttachBest5CallBack
+[6436] 2015/02/13 10:23:09.389 SKOSQuoteLib_AttachServerTimeCallBack
+[6436] 2015/02/13 10:23:09.392 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[6436] 2015/02/13 10:23:09.396 SKOSQuoteLib_EnterMonitor(0)
+[6436] 2015/02/13 10:23:09.398 Connect FORT01.capital.com.tw 443
+[6436] 2015/02/13 10:23:09.444 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[6436] 2015/02/13 10:23:11.585 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[6792] 2015/02/13 10:24:59.702 API InitInstance 
+[6792] 2015/02/13 10:24:59.706 SKOSQuoteLib_Initialize  ID：E122828927
+[6792] 2015/02/13 10:24:59.707 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[6792] 2015/02/13 10:25:00.570 SKOSQuoteLib_AttachConnectCallBack
+[6792] 2015/02/13 10:25:00.572 SKOSQuoteLib_AttachQuoteCallBack
+[6792] 2015/02/13 10:25:00.575 SKOSQuoteLib_AttachTicksCallBack
+[6792] 2015/02/13 10:25:00.576 SKOSQuoteLib_AttachBest5CallBack
+[6792] 2015/02/13 10:25:00.578 SKOSQuoteLib_AttachServerTimeCallBack
+[6792] 2015/02/13 10:25:00.581 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[6792] 2015/02/13 10:25:00.585 SKOSQuoteLib_EnterMonitor(0)
+[6792] 2015/02/13 10:25:00.587 Connect FORT13.capital.com.tw 443
+[6792] 2015/02/13 10:25:01.841 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[6792] 2015/02/13 10:25:05.673 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[2896] 2015/02/13 10:25:45.766 API InitInstance 
+[2896] 2015/02/13 10:25:45.771 SKOSQuoteLib_Initialize  ID：E122828927
+[2896] 2015/02/13 10:25:45.772 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[2896] 2015/02/13 10:25:46.530 SKOSQuoteLib_AttachConnectCallBack
+[2896] 2015/02/13 10:25:46.532 SKOSQuoteLib_AttachQuoteCallBack
+[2896] 2015/02/13 10:25:46.534 SKOSQuoteLib_AttachTicksCallBack
+[2896] 2015/02/13 10:25:46.536 SKOSQuoteLib_AttachBest5CallBack
+[2896] 2015/02/13 10:25:46.538 SKOSQuoteLib_AttachServerTimeCallBack
+[2896] 2015/02/13 10:25:46.540 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[2896] 2015/02/13 10:25:46.545 SKOSQuoteLib_EnterMonitor(0)
+[2896] 2015/02/13 10:25:46.547 Connect FORT05.capital.com.tw 443
+[2896] 2015/02/13 10:25:46.601 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[2896] 2015/02/13 10:25:51.024 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[4800] 2015/02/13 10:29:34.260 API InitInstance 
+[4800] 2015/02/13 10:29:34.265 SKOSQuoteLib_Initialize  ID：E122828927
+[4800] 2015/02/13 10:29:34.266 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[4800] 2015/02/13 10:29:35.060 SKOSQuoteLib_AttachConnectCallBack
+[4800] 2015/02/13 10:29:35.062 SKOSQuoteLib_AttachQuoteCallBack
+[4800] 2015/02/13 10:29:35.064 SKOSQuoteLib_AttachTicksCallBack
+[4800] 2015/02/13 10:29:35.066 SKOSQuoteLib_AttachBest5CallBack
+[4800] 2015/02/13 10:29:35.068 SKOSQuoteLib_AttachServerTimeCallBack
+[4800] 2015/02/13 10:29:35.070 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4800] 2015/02/13 10:29:35.075 SKOSQuoteLib_EnterMonitor(0)
+[4800] 2015/02/13 10:29:35.077 Connect FORT07.capital.com.tw 443
+[4800] 2015/02/13 10:29:35.146 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4800] 2015/02/13 10:29:38.995 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[2652] 2015/02/13 10:30:42.869 API InitInstance 
+[2652] 2015/02/13 10:30:42.873 SKOSQuoteLib_Initialize  ID：E122828927
+[2652] 2015/02/13 10:30:42.874 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[2652] 2015/02/13 10:30:43.631 SKOSQuoteLib_AttachConnectCallBack
+[2652] 2015/02/13 10:30:43.634 SKOSQuoteLib_AttachQuoteCallBack
+[2652] 2015/02/13 10:30:43.636 SKOSQuoteLib_AttachTicksCallBack
+[2652] 2015/02/13 10:30:43.637 SKOSQuoteLib_AttachBest5CallBack
+[2652] 2015/02/13 10:30:43.639 SKOSQuoteLib_AttachServerTimeCallBack
+[2652] 2015/02/13 10:30:43.642 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[2652] 2015/02/13 10:30:43.646 SKOSQuoteLib_EnterMonitor(0)
+[2652] 2015/02/13 10:30:43.648 Connect FORT07.capital.com.tw 443
+[2652] 2015/02/13 10:30:43.694 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[2652] 2015/02/13 10:30:46.840 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[4824] 2015/02/13 10:51:38.030 API InitInstance 
+[4824] 2015/02/13 10:51:38.034 SKOSQuoteLib_Initialize  ID：E122828927
+[4824] 2015/02/13 10:51:38.036 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[4824] 2015/02/13 10:51:38.643 SKOSQuoteLib_AttachConnectCallBack
+[4824] 2015/02/13 10:51:38.645 SKOSQuoteLib_AttachQuoteCallBack
+[4824] 2015/02/13 10:51:38.647 SKOSQuoteLib_AttachTicksCallBack
+[4824] 2015/02/13 10:51:38.649 SKOSQuoteLib_AttachBest5CallBack
+[4824] 2015/02/13 10:51:38.650 SKOSQuoteLib_AttachServerTimeCallBack
+[4824] 2015/02/13 10:51:38.652 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[4824] 2015/02/13 10:51:38.656 SKOSQuoteLib_EnterMonitor(0)
+[4824] 2015/02/13 10:51:38.658 Connect FORT03.capital.com.tw 443
+[4824] 2015/02/13 10:51:38.716 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4824] 2015/02/13 10:51:47.726 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[4824] 2015/02/13 12:30:21.996 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[4824] 2015/02/13 12:30:22.000 SocketDisconnect 斷線CALLBACK通知
+[4824] 2015/02/13 12:30:22.004 SKOSQuoteLib_EnterMonitor(0)
+[4824] 2015/02/13 12:30:22.005 Connect FORT03.capital.com.tw 443
+[4824] 2015/02/13 12:30:22.008 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[4824] 2015/02/13 12:30:22.031 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[4824] 2015/02/13 12:30:22.133 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4824] 2015/02/13 12:45:34.188 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[4824] 2015/02/13 12:45:34.192 SocketDisconnect 斷線CALLBACK通知
+[4824] 2015/02/13 12:45:34.196 SKOSQuoteLib_EnterMonitor(0)
+[4824] 2015/02/13 12:45:34.197 Connect FORT03.capital.com.tw 443
+[4824] 2015/02/13 12:45:34.200 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[4824] 2015/02/13 12:45:34.236 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[4824] 2015/02/13 12:45:34.338 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4824] 2015/02/13 13:00:49.859 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[4824] 2015/02/13 13:00:49.863 SocketDisconnect 斷線CALLBACK通知
+[4824] 2015/02/13 13:00:49.867 SKOSQuoteLib_EnterMonitor(0)
+[4824] 2015/02/13 13:00:49.868 Connect FORT03.capital.com.tw 443
+[4824] 2015/02/13 13:00:49.870 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[4824] 2015/02/13 13:00:49.902 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[4824] 2015/02/13 13:00:50.004 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4824] 2015/02/13 13:41:35.950 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[4824] 2015/02/13 13:41:35.954 SocketDisconnect 斷線CALLBACK通知
+[4824] 2015/02/13 13:41:35.958 SKOSQuoteLib_EnterMonitor(0)
+[4824] 2015/02/13 13:41:35.960 Connect FORT03.capital.com.tw 443
+[4824] 2015/02/13 13:41:35.962 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[4824] 2015/02/13 13:41:35.991 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[4824] 2015/02/13 13:41:36.093 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4824] 2015/02/13 13:56:50.024 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[4824] 2015/02/13 13:56:50.027 SocketDisconnect 斷線CALLBACK通知
+[4824] 2015/02/13 13:56:50.030 SKOSQuoteLib_EnterMonitor(0)
+[4824] 2015/02/13 13:56:50.032 Connect FORT03.capital.com.tw 443
+[4824] 2015/02/13 13:56:50.033 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[4824] 2015/02/13 13:56:50.080 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[4824] 2015/02/13 13:56:50.182 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4824] 2015/02/13 14:12:04.448 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[4824] 2015/02/13 14:12:04.451 SocketDisconnect 斷線CALLBACK通知
+[4824] 2015/02/13 14:12:04.455 SKOSQuoteLib_EnterMonitor(0)
+[4824] 2015/02/13 14:12:04.457 Connect FORT03.capital.com.tw 443
+[4824] 2015/02/13 14:12:04.458 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[4824] 2015/02/13 14:12:04.480 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+[4824] 2015/02/13 14:12:04.582 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[4824] 2015/02/13 15:11:18.842 API ExitInstance 
+[3868] 2015/02/13 15:38:26.407 API InitInstance 
+[3868] 2015/02/13 15:38:26.411 SKOSQuoteLib_Initialize  ID：E122828927
+[3868] 2015/02/13 15:38:26.413 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[3868] 2015/02/13 15:38:27.046 SKOSQuoteLib_AttachConnectCallBack
+[3868] 2015/02/13 15:38:27.048 SKOSQuoteLib_AttachQuoteCallBack
+[3868] 2015/02/13 15:38:27.050 SKOSQuoteLib_AttachTicksCallBack
+[3868] 2015/02/13 15:38:27.052 SKOSQuoteLib_AttachBest5CallBack
+[3868] 2015/02/13 15:38:27.054 SKOSQuoteLib_AttachServerTimeCallBack
+[3868] 2015/02/13 15:38:27.056 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[3868] 2015/02/13 15:38:27.061 SKOSQuoteLib_EnterMonitor(0)
+[3868] 2015/02/13 15:38:27.062 Connect FORT05.capital.com.tw 443
+[3868] 2015/02/13 15:38:27.111 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[3868] 2015/02/13 15:38:53.999 SKOSQuoteLib_LeaveMonitor()
+[3868] 2015/02/13 15:38:54.001 連線中斷，Code: 10053 , The virtual circuit was terminated due to a time-out or other failure. The application should close the socket as it is no longer usable.
+[3868] 2015/02/13 15:38:54.005 SocketDisconnect 斷線CALLBACK通知
+[3868] 2015/02/13 15:38:54.016 API ExitInstance 
+[3244] 2015/02/13 15:38:55.862 API InitInstance 
+[3244] 2015/02/13 15:38:55.863 SKOSQuoteLib_LeaveMonitor   SK_ERROR_INITIALIZE_FAIL 
+[3244] 2015/02/13 15:38:57.860 API ExitInstance 
+[2072] 2015/02/13 15:41:17.635 API InitInstance 
+[2072] 2015/02/13 15:41:17.640 SKOSQuoteLib_Initialize  ID：E122828927
+[2072] 2015/02/13 15:41:17.642 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[2072] 2015/02/13 15:41:18.324 SKOSQuoteLib_AttachConnectCallBack
+[2072] 2015/02/13 15:41:18.326 SKOSQuoteLib_AttachQuoteCallBack
+[2072] 2015/02/13 15:41:18.328 SKOSQuoteLib_AttachTicksCallBack
+[2072] 2015/02/13 15:41:18.330 SKOSQuoteLib_AttachBest5CallBack
+[2072] 2015/02/13 15:41:18.332 SKOSQuoteLib_AttachServerTimeCallBack
+[2072] 2015/02/13 15:41:18.334 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[2072] 2015/02/13 15:41:18.339 SKOSQuoteLib_EnterMonitor(0)
+[2072] 2015/02/13 15:41:18.340 Connect FORT05.capital.com.tw 443
+[2072] 2015/02/13 15:41:18.470 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[2072] 2015/02/13 15:41:20.939 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[5104] 2015/02/13 15:47:40.020 API InitInstance 
+[5104] 2015/02/13 15:47:40.025 SKOSQuoteLib_Initialize  ID：E122828927
+[5104] 2015/02/13 15:47:40.026 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[5104] 2015/02/13 15:47:40.795 SKOSQuoteLib_AttachConnectCallBack
+[5104] 2015/02/13 15:47:40.797 SKOSQuoteLib_AttachQuoteCallBack
+[5104] 2015/02/13 15:47:40.799 SKOSQuoteLib_AttachTicksCallBack
+[5104] 2015/02/13 15:47:40.801 SKOSQuoteLib_AttachBest5CallBack
+[5104] 2015/02/13 15:47:40.803 SKOSQuoteLib_AttachServerTimeCallBack
+[5104] 2015/02/13 15:47:40.806 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[5104] 2015/02/13 15:47:40.810 SKOSQuoteLib_EnterMonitor(0)
+[5104] 2015/02/13 15:47:40.812 Connect FORT01.capital.com.tw 443
+[5104] 2015/02/13 15:47:40.935 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[5104] 2015/02/13 15:47:44.384 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 15:56:12.109 API InitInstance 
+[232] 2015/02/13 15:56:12.113 SKOSQuoteLib_Initialize  ID：E122828927
+[232] 2015/02/13 15:56:12.115 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+[232] 2015/02/13 15:56:12.941 SKOSQuoteLib_AttachConnectCallBack
+[232] 2015/02/13 15:56:12.943 SKOSQuoteLib_AttachQuoteCallBack
+[232] 2015/02/13 15:56:12.945 SKOSQuoteLib_AttachTicksCallBack
+[232] 2015/02/13 15:56:12.947 SKOSQuoteLib_AttachBest5CallBack
+[232] 2015/02/13 15:56:12.949 SKOSQuoteLib_AttachServerTimeCallBack
+[232] 2015/02/13 15:56:12.951 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+[232] 2015/02/13 15:56:12.956 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 15:56:12.957 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 15:56:13.069 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 15:56:15.976 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 16:35:07.927 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 16:35:07.931 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 16:35:07.935 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 16:35:07.937 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 16:35:07.939 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 16:35:07.977 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 16:35:08.079 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 16:50:19.849 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 16:50:19.853 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 16:50:19.857 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 16:50:19.858 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 16:50:19.861 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 16:50:19.913 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 16:50:20.015 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 17:05:35.028 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 17:05:35.032 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 17:05:35.036 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 17:05:35.038 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 17:05:35.040 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 17:05:35.084 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 17:05:35.186 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 17:20:49.958 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 17:20:49.962 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 17:20:49.966 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 17:20:49.967 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 17:20:49.970 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 17:20:50.012 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 17:20:50.113 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 17:36:05.430 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 17:36:05.434 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 17:36:05.438 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 17:36:05.440 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 17:36:05.442 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 17:36:05.493 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 17:36:05.595 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 17:51:20.815 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 17:51:20.819 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 17:51:20.823 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 17:51:20.824 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 17:51:20.827 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 17:51:20.873 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 17:51:20.975 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 18:06:35.540 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 18:06:35.544 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 18:06:35.548 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 18:06:35.549 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 18:06:35.552 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 18:06:35.592 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 18:06:35.693 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 18:50:07.549 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 18:50:07.553 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 18:50:07.556 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 18:50:07.558 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 18:50:07.560 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 18:50:07.593 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 18:50:07.695 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 19:05:22.738 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 19:05:22.742 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 19:05:22.746 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 19:05:22.747 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 19:05:22.750 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 19:05:22.797 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 19:05:22.899 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 19:21:20.064 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 19:21:20.068 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 19:21:20.072 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 19:21:20.073 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 19:21:20.076 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 19:21:20.111 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 19:21:20.213 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 19:36:36.073 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 19:36:36.077 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 19:36:36.081 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 19:36:36.082 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 19:36:36.085 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 19:36:36.122 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 19:36:36.224 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 20:07:06.716 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 20:07:06.720 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 20:07:06.724 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 20:07:06.726 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 20:07:06.728 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 20:07:06.790 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 20:07:06.891 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 20:22:20.085 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 20:22:20.089 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 20:22:20.093 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 20:22:20.095 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 20:22:20.097 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 20:22:20.125 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 20:22:20.227 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 20:37:34.940 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 20:37:34.944 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 20:37:34.948 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 20:37:34.950 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 20:37:34.952 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 20:37:34.993 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 20:37:35.095 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 20:53:05.986 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 20:53:05.990 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 20:53:05.994 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 20:53:05.995 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 20:53:05.998 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 20:53:07.236 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 20:53:07.338 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 21:08:21.207 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 21:08:21.211 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 21:08:21.215 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 21:08:21.216 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 21:08:21.219 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 21:08:21.254 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 21:08:21.355 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 21:23:36.069 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 21:23:36.073 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 21:23:36.077 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 21:23:36.078 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 21:23:36.081 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 21:23:36.115 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 21:23:36.217 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 21:38:50.007 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 21:38:50.011 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 21:38:50.015 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 21:38:50.017 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 21:38:50.019 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 21:38:50.052 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 21:38:50.154 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 21:54:05.727 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 21:54:05.731 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 21:54:05.735 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 21:54:05.736 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 21:54:05.739 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 21:54:05.772 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 21:54:05.874 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 22:11:06.822 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 22:11:06.826 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 22:11:06.830 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 22:11:06.832 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 22:11:06.834 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 22:11:06.873 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 22:11:06.975 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 22:26:19.718 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 22:26:19.722 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 22:26:19.726 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 22:26:19.727 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 22:26:19.730 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 22:26:19.774 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 22:26:19.876 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 22:41:37.062 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 22:41:37.066 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 22:41:37.070 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 22:41:37.072 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 22:41:37.074 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 22:41:37.118 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 22:41:37.219 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 22:56:51.114 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 22:56:51.118 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 22:56:51.122 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 22:56:51.123 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 22:56:51.125 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 22:56:52.362 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 22:56:52.464 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 23:12:06.681 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 23:12:06.685 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 23:12:06.689 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 23:12:06.691 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 23:12:06.693 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 23:12:06.748 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 23:12:06.850 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 23:27:19.914 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 23:27:19.918 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 23:27:19.922 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 23:27:19.924 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 23:27:19.926 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 23:27:19.978 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 23:27:20.080 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/13 23:42:37.063 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/13 23:42:37.067 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/13 23:42:37.071 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/13 23:42:37.073 Connect FORT15.capital.com.tw 443
+[232] 2015/02/13 23:42:37.075 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/13 23:42:37.118 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/13 23:42:37.219 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/14 00:13:07.802 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/14 00:13:07.806 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/14 00:13:07.810 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/14 00:13:07.812 Connect FORT15.capital.com.tw 443
+[232] 2015/02/14 00:13:07.814 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/14 00:13:07.853 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/14 00:13:07.955 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/14 00:28:20.829 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/14 00:28:20.833 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/14 00:28:20.837 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/14 00:28:20.838 Connect FORT15.capital.com.tw 443
+[232] 2015/02/14 00:28:20.841 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/14 00:28:20.890 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/14 00:28:20.993 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/14 00:43:36.679 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/14 00:43:36.683 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/14 00:43:36.687 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/14 00:43:36.688 Connect FORT15.capital.com.tw 443
+[232] 2015/02/14 00:43:36.691 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/14 00:43:36.717 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/14 00:43:36.819 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/14 00:58:52.265 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/14 00:58:52.269 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/14 00:58:52.273 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/14 00:58:52.274 Connect FORT15.capital.com.tw 443
+[232] 2015/02/14 00:58:52.276 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/14 00:58:52.312 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/14 00:58:52.414 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/14 01:29:21.044 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/14 01:29:21.048 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/14 01:29:21.052 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/14 01:29:21.054 Connect FORT15.capital.com.tw 443
+[232] 2015/02/14 01:29:21.056 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/14 01:29:21.099 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/14 01:29:21.201 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/14 01:44:35.600 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/14 01:44:35.604 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/14 01:44:35.608 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/14 01:44:35.610 Connect FORT15.capital.com.tw 443
+[232] 2015/02/14 01:44:35.612 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/14 01:44:35.652 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/14 01:44:35.754 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/14 01:59:51.683 連線中斷，Code: 10060 , The connection has been dropped because of a network failure or because the peer system failed to respond.
+[232] 2015/02/14 01:59:51.687 SocketDisconnect 斷線CALLBACK通知
+[232] 2015/02/14 01:59:51.691 SKOSQuoteLib_EnterMonitor(0)
+[232] 2015/02/14 01:59:51.693 Connect FORT15.capital.com.tw 443
+[232] 2015/02/14 01:59:51.695 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10060
+[232] 2015/02/14 01:59:51.729 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+[232] 2015/02/14 01:59:51.831 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+[232] 2015/02/14 02:00:00.786 SKOSQuoteLib_LeaveMonitor()
+[232] 2015/02/14 02:00:00.788 連線中斷，Code: 10053 , The virtual circuit was terminated due to a time-out or other failure. The application should close the socket as it is no longer usable.
+[232] 2015/02/14 02:00:00.792 SocketDisconnect 斷線CALLBACK通知

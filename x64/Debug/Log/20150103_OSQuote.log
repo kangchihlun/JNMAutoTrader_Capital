@@ -1,0 +1,71 @@
+2015/01/03 08:18:42.081 -----------
+2015/01/03 08:18:42.081 API InitInstance 
+2015/01/03 08:18:42.091 SKOSQuoteLib_Initialize  ID¡GE122828927
+2015/01/03 08:18:42.092 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+2015/01/03 08:18:43.279 SKOSQuoteLib_EnterMonitor(0)
+2015/01/03 08:18:43.280 Connect FORT01.capital.com.tw 443
+2015/01/03 08:18:43.283 SKOSQuoteLib_AttachConnectCallBack
+2015/01/03 08:18:43.284 SKOSQuoteLib_AttachQuoteCallBack
+2015/01/03 08:18:43.286 SKOSQuoteLib_AttachTicksCallBack
+2015/01/03 08:18:43.288 SKOSQuoteLib_AttachBest5CallBack
+2015/01/03 08:18:43.289 SKOSQuoteLib_AttachServerTimeCallBack
+2015/01/03 08:18:43.290 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+2015/01/03 08:18:43.344 SK_SUBJECT_CONNECTION_CONNECTED¡ACode: 0
+2015/01/03 08:18:44.934 SKOSQuoteLib_AttachOverseaProductsCallBack
+2015/01/03 08:18:44.935 SKOSQuoteLib_RequestOverseaProducts()
+2015/01/03 08:18:54.906 SKOSQuoteLib_RequestServerTime()
+2015/01/03 08:18:58.462 API ExitInstance 
+2015/01/03 08:43:07.696 -----------
+2015/01/03 08:43:07.697 API InitInstance 
+2015/01/03 08:43:07.699 SKOSQuoteLib_Initialize  ID¡GE122828927
+2015/01/03 08:43:07.699 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+2015/01/03 08:43:08.518 SKOSQuoteLib_EnterMonitor(0)
+2015/01/03 08:43:08.518 Connect FORT07.capital.com.tw 443
+2015/01/03 08:43:08.521 SKOSQuoteLib_AttachConnectCallBack
+2015/01/03 08:43:08.523 SKOSQuoteLib_AttachQuoteCallBack
+2015/01/03 08:43:08.525 SKOSQuoteLib_AttachTicksCallBack
+2015/01/03 08:43:08.527 SKOSQuoteLib_AttachBest5CallBack
+2015/01/03 08:43:08.528 SKOSQuoteLib_AttachServerTimeCallBack
+2015/01/03 08:43:08.528 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+2015/01/03 08:43:08.576 SK_SUBJECT_CONNECTION_CONNECTED¡ACode: 0
+2015/01/03 08:43:17.927 SKOSQuoteLib_AttachOverseaProductsCallBack
+2015/01/03 08:43:17.928 SKOSQuoteLib_RequestOverseaProducts()
+2015/01/03 08:43:21.486 SKOSQuoteLib_RequestServerTime()
+2015/01/03 08:43:36.492 SKOSQuoteLib_RequestServerTime()
+2015/01/03 08:43:51.498 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:03:27.092 -----------
+2015/01/03 09:03:27.093 API InitInstance 
+2015/01/03 09:03:27.095 SKOSQuoteLib_Initialize  ID¡GE122828927
+2015/01/03 09:03:27.096 SKOSQuoteLib_Initialize  Server¡Ghttps://order2.capital.com.tw/
+2015/01/03 09:03:27.979 SKOSQuoteLib_EnterMonitor(0)
+2015/01/03 09:03:27.979 Connect FORT05.capital.com.tw 443
+2015/01/03 09:03:27.982 SKOSQuoteLib_AttachConnectCallBack
+2015/01/03 09:03:27.983 SKOSQuoteLib_AttachQuoteCallBack
+2015/01/03 09:03:27.985 SKOSQuoteLib_AttachTicksCallBack
+2015/01/03 09:03:27.986 SKOSQuoteLib_AttachBest5CallBack
+2015/01/03 09:03:27.987 SKOSQuoteLib_AttachServerTimeCallBack
+2015/01/03 09:03:27.988 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+2015/01/03 09:03:28.041 SK_SUBJECT_CONNECTION_CONNECTED¡ACode: 0
+2015/01/03 09:03:30.343 SKOSQuoteLib_AttachOverseaProductsCallBack
+2015/01/03 09:03:30.344 SKOSQuoteLib_RequestOverseaProducts()
+2015/01/03 09:03:39.778 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:03:54.780 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:04:03.169 SKOSQuoteLib_AttachKLineDataCallBack
+2015/01/03 09:04:03.170 SKOSQuoteLib_RequestKLine (OSE,JNMPM1503,0)
+2015/01/03 09:04:09.788 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:04:24.795 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:04:39.805 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:04:54.812 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:05:09.823 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:05:24.828 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:05:39.834 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:05:54.840 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:06:09.850 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:06:24.857 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:06:39.866 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:06:54.871 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:07:09.881 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:07:24.884 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:07:39.891 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:07:54.898 SKOSQuoteLib_RequestServerTime()
+2015/01/03 09:08:09.907 SKOSQuoteLib_RequestServerTime()

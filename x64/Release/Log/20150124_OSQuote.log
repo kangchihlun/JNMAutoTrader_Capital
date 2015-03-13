@@ -1,0 +1,34 @@
+2015/01/24 07:07:18.064 -----------
+2015/01/24 07:07:18.065 API InitInstance 
+2015/01/24 07:07:18.066 SKOSQuoteLib_RequestServerTime   SK_ERROR_INITIALIZE_FAIL 
+2015/01/24 07:07:21.037 SKOSQuoteLib_Initialize  ID：E122828927
+2015/01/24 07:07:21.039 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+2015/01/24 07:07:21.933 SKOSQuoteLib_EnterMonitor(0)
+2015/01/24 07:07:21.934 Connect FORT06.capital.com.tw 443
+2015/01/24 07:07:22.208 SKOSQuoteLib_AttachConnectCallBack
+2015/01/24 07:07:22.268 SKOSQuoteLib_AttachQuoteCallBack
+2015/01/24 07:07:22.329 SKOSQuoteLib_AttachTicksCallBack
+2015/01/24 07:07:22.331 SKOSQuoteLib_AttachBest5CallBack
+2015/01/24 07:07:22.333 SKOSQuoteLib_AttachServerTimeCallBack
+2015/01/24 07:07:22.334 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+2015/01/24 07:07:23.686 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+2015/01/24 07:07:24.074 SKOSQuoteLib_EnterMonitor(0)
+2015/01/24 07:07:24.075 Connect FORT06.capital.com.tw 443
+2015/01/24 07:07:24.077 連線中斷，Code: 10053 , The virtual circuit was terminated due to a time-out or other failure. The application should close the socket as it is no longer usable.
+2015/01/24 07:07:24.081 SocketDisconnect 斷線CALLBACK通知
+2015/01/24 07:07:24.082 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10053
+2015/01/24 07:07:27.104 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+2015/01/24 07:07:32.876 SKOSQuoteLib_RequestServerTime()
+2015/01/24 07:07:33.658 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+2015/01/24 07:07:37.342 通知TICK更新：idx 516,Ptr 26692
+2015/01/24 07:07:37.346 SKOSQuoteLib_GetTick(516,26692)
+2015/01/24 07:07:37.347 通知五檔更新 Stockidx：516
+2015/01/24 07:07:47.883 SKOSQuoteLib_RequestServerTime()
+2015/01/24 15:37:03.560 -----------
+2015/01/24 15:37:03.562 API InitInstance 
+2015/01/24 15:37:03.563 SKOSQuoteLib_RequestServerTime   SK_ERROR_INITIALIZE_FAIL 
+2015/01/24 15:56:16.011 -----------
+2015/01/24 15:56:16.012 API InitInstance 
+2015/01/24 15:56:16.013 SKOSQuoteLib_RequestServerTime   SK_ERROR_INITIALIZE_FAIL 
+2015/01/24 15:56:22.913 SKOSQuoteLib_RequestServerTime   SK_ERROR_INITIALIZE_FAIL 
+2015/01/24 15:56:26.607 API ExitInstance 

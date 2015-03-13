@@ -1,0 +1,325 @@
+2014/12/09 18:44:45.708 -----------
+2014/12/09 18:44:45.708 API InitInstance 
+2014/12/09 18:44:45.711 SKOSQuoteLib_Initialize  ID：E122828927
+2014/12/09 18:44:45.712 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+2014/12/09 18:44:50.139 SKOSQuoteLib_AttachConnectCallBack
+2014/12/09 18:44:50.140 SKOSQuoteLib_AttachQuoteCallBack
+2014/12/09 18:44:50.141 SKOSQuoteLib_AttachTicksCallBack
+2014/12/09 18:44:50.141 SKOSQuoteLib_AttachBest5CallBack
+2014/12/09 18:44:50.142 SKOSQuoteLib_AttachServerTimeCallBack
+2014/12/09 18:44:50.143 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+2014/12/09 18:45:04.001 SKOSQuoteLib_EnterMonitor(0)
+2014/12/09 18:45:04.002 Connect FORT06.capital.com.tw 443
+2014/12/09 18:45:04.278 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+2014/12/09 18:45:08.457 SKOSQuoteLib_RequestServerTime()
+2014/12/09 18:45:28.716 -----------
+2014/12/09 18:45:28.717 API InitInstance 
+2014/12/09 18:45:28.719 SKOSQuoteLib_Initialize  ID：E122828927
+2014/12/09 18:45:28.720 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+2014/12/09 18:45:30.524 SKOSQuoteLib_AttachConnectCallBack
+2014/12/09 18:45:30.524 SKOSQuoteLib_AttachQuoteCallBack
+2014/12/09 18:45:30.525 SKOSQuoteLib_AttachTicksCallBack
+2014/12/09 18:45:30.526 SKOSQuoteLib_AttachBest5CallBack
+2014/12/09 18:45:30.527 SKOSQuoteLib_AttachServerTimeCallBack
+2014/12/09 18:45:30.528 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+2014/12/09 18:45:31.721 SKOSQuoteLib_EnterMonitor(0)
+2014/12/09 18:45:31.722 Connect FORT03.capital.com.tw 443
+2014/12/09 18:45:31.760 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+2014/12/09 18:45:37.890 SKOSQuoteLib_AttachOverseaProductsCallBack
+2014/12/09 18:45:37.891 SKOSQuoteLib_RequestOverseaProducts()
+2014/12/09 18:46:38.298 SKOSQuoteLib_RequestTicks (0,OSE,PM1412)
+2014/12/09 18:47:17.908 SKOSQuoteLib_RequestStocks (0,OSE,PM1412)
+2014/12/09 18:47:33.834 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1412)
+2014/12/09 19:06:13.574 -----------
+2014/12/09 19:06:13.574 API InitInstance 
+2014/12/09 19:06:13.576 SKOSQuoteLib_Initialize  ID：E122828927
+2014/12/09 19:06:13.577 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+2014/12/09 19:06:15.535 SKOSQuoteLib_AttachConnectCallBack
+2014/12/09 19:06:15.535 SKOSQuoteLib_AttachQuoteCallBack
+2014/12/09 19:06:15.536 SKOSQuoteLib_AttachTicksCallBack
+2014/12/09 19:06:15.537 SKOSQuoteLib_AttachBest5CallBack
+2014/12/09 19:06:15.538 SKOSQuoteLib_AttachServerTimeCallBack
+2014/12/09 19:06:15.538 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+2014/12/09 19:06:18.737 SKOSQuoteLib_EnterMonitor(0)
+2014/12/09 19:06:18.737 Connect FORT03.capital.com.tw 443
+2014/12/09 19:06:18.788 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+2014/12/09 19:06:34.370 SKOSQuoteLib_AttachOverseaProductsCallBack
+2014/12/09 19:06:34.370 SKOSQuoteLib_RequestOverseaProducts()
+2014/12/09 19:08:55.062 連線中斷，Code: 10054 , The virtual circuit was reset by the remote side executing a "hard" or "abortive" close. The application should close the socket as it is no longer usable. On a UDP datagram socket this error would indicate that a previous send operation resulted in an ICMP "Port Unreachable" message.
+2014/12/09 19:08:55.064 SocketDisconnect 斷線CALLBACK通知
+2014/12/09 19:08:55.067 SK_SUBJECT_CONNECTION_DISCONNECT，Code: 10054
+2014/12/09 19:18:37.535 SKOSQuoteLib_LeaveMonitor()
+2014/12/09 19:18:37.601 API ExitInstance 
+2014/12/09 19:18:51.402 -----------
+2014/12/09 19:18:51.402 API InitInstance 
+2014/12/09 19:18:51.404 SKOSQuoteLib_Initialize  ID：E122828927
+2014/12/09 19:18:51.405 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+2014/12/09 19:18:53.025 SKOSQuoteLib_AttachConnectCallBack
+2014/12/09 19:18:53.026 SKOSQuoteLib_AttachQuoteCallBack
+2014/12/09 19:18:53.027 SKOSQuoteLib_AttachTicksCallBack
+2014/12/09 19:18:53.027 SKOSQuoteLib_AttachBest5CallBack
+2014/12/09 19:18:53.028 SKOSQuoteLib_AttachServerTimeCallBack
+2014/12/09 19:18:53.029 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+2014/12/09 19:18:55.217 SKOSQuoteLib_EnterMonitor(0)
+2014/12/09 19:18:55.218 Connect FORT05.capital.com.tw 443
+2014/12/09 19:18:55.269 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+2014/12/09 19:19:00.773 SKOSQuoteLib_RequestTicks (0,OSE,JNM1412)
+2014/12/09 19:19:22.551 通知TICK更新：idx 497,Ptr 16951
+2014/12/09 19:19:22.572 SKOSQuoteLib_GetTick(497,16951)
+2014/12/09 19:19:22.573 通知五檔更新 Stockidx：497
+2014/12/09 19:19:24.722 SKOSQuoteLib_AttachKLineDataCallBack
+2014/12/09 19:19:24.723 SKOSQuoteLib_RequestKLine (OSE,JNM1412,0)
+2014/12/09 19:20:35.231 SKOSQuoteLib_LeaveMonitor()
+2014/12/09 19:20:35.232 連線中斷，Code: 10053 , The virtual circuit was terminated due to a time-out or other failure. The application should close the socket as it is no longer usable.
+2014/12/09 19:20:35.234 SocketDisconnect 斷線CALLBACK通知
+2014/12/09 19:20:35.334 API ExitInstance 
+2014/12/09 19:22:04.141 -----------
+2014/12/09 19:22:04.141 API InitInstance 
+2014/12/09 19:22:04.143 SKOSQuoteLib_Initialize  ID：E122828927
+2014/12/09 19:22:04.144 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+2014/12/09 19:22:05.818 SKOSQuoteLib_AttachConnectCallBack
+2014/12/09 19:22:05.819 SKOSQuoteLib_AttachQuoteCallBack
+2014/12/09 19:22:05.820 SKOSQuoteLib_AttachTicksCallBack
+2014/12/09 19:22:05.820 SKOSQuoteLib_AttachBest5CallBack
+2014/12/09 19:22:05.821 SKOSQuoteLib_AttachServerTimeCallBack
+2014/12/09 19:22:05.822 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+2014/12/09 19:22:07.297 SKOSQuoteLib_EnterMonitor(0)
+2014/12/09 19:22:07.297 Connect FORT05.capital.com.tw 443
+2014/12/09 19:22:07.331 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+2014/12/09 19:22:13.026 SKOSQuoteLib_AttachOverseaProductsCallBack
+2014/12/09 19:22:13.027 SKOSQuoteLib_RequestOverseaProducts()
+2014/12/09 19:22:41.631 SKOSQuoteLib_LeaveMonitor()
+2014/12/09 19:22:41.632 連線中斷，Code: 10053 , The virtual circuit was terminated due to a time-out or other failure. The application should close the socket as it is no longer usable.
+2014/12/09 19:22:41.633 SocketDisconnect 斷線CALLBACK通知
+2014/12/09 19:22:41.677 API ExitInstance 
+2014/12/09 19:24:32.921 -----------
+2014/12/09 19:24:32.922 API InitInstance 
+2014/12/09 19:24:32.923 SKOSQuoteLib_AttachKLineDataCallBack   SK_ERROR_INITIALIZE_FAIL 
+2014/12/09 19:24:32.924 SKOSQuoteLib_RequestKLine   SK_ERROR_INITIALIZE_FAIL 
+2014/12/09 19:24:41.179 SKOSQuoteLib_Initialize  ID：E122828927
+2014/12/09 19:24:41.180 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+2014/12/09 19:24:42.839 SKOSQuoteLib_AttachConnectCallBack
+2014/12/09 19:24:42.840 SKOSQuoteLib_AttachQuoteCallBack
+2014/12/09 19:24:42.841 SKOSQuoteLib_AttachTicksCallBack
+2014/12/09 19:24:42.841 SKOSQuoteLib_AttachBest5CallBack
+2014/12/09 19:24:42.842 SKOSQuoteLib_AttachServerTimeCallBack
+2014/12/09 19:24:42.843 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+2014/12/09 19:24:43.753 SKOSQuoteLib_EnterMonitor(0)
+2014/12/09 19:24:43.754 Connect FORT07.capital.com.tw 443
+2014/12/09 19:24:43.804 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+2014/12/09 19:24:45.945 SKOSQuoteLib_AttachKLineDataCallBack
+2014/12/09 19:24:45.945 SKOSQuoteLib_RequestKLine (OSE,JNMPM1412,0)
+2014/12/09 19:25:25.988 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1412)
+2014/12/09 19:25:37.009 通知TICK更新：idx 501,Ptr 8933
+2014/12/09 19:25:37.010 SKOSQuoteLib_GetTick(501,8933)
+2014/12/09 19:25:37.011 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.017 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.018 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.019 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.020 通知TICK更新：idx 501,Ptr 8934
+2014/12/09 19:25:37.020 SKOSQuoteLib_GetTick(501,8934)
+2014/12/09 19:25:37.021 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.022 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.023 通知TICK更新：idx 501,Ptr 8935
+2014/12/09 19:25:37.024 SKOSQuoteLib_GetTick(501,8935)
+2014/12/09 19:25:37.025 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.026 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.027 通知TICK更新：idx 501,Ptr 8936
+2014/12/09 19:25:37.027 SKOSQuoteLib_GetTick(501,8936)
+2014/12/09 19:25:37.028 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.029 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.031 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.032 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.033 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.033 通知TICK更新：idx 501,Ptr 8937
+2014/12/09 19:25:37.034 SKOSQuoteLib_GetTick(501,8937)
+2014/12/09 19:25:37.035 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.036 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.037 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.038 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.039 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.040 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.276 通知TICK更新：idx 501,Ptr 8938
+2014/12/09 19:25:37.277 SKOSQuoteLib_GetTick(501,8938)
+2014/12/09 19:25:37.278 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.496 通知TICK更新：idx 501,Ptr 8939
+2014/12/09 19:25:37.497 SKOSQuoteLib_GetTick(501,8939)
+2014/12/09 19:25:37.498 通知五檔更新 Stockidx：501
+2014/12/09 19:25:37.714 通知五檔更新 Stockidx：501
+2014/12/09 19:25:38.108 通知五檔更新 Stockidx：501
+2014/12/09 19:25:38.761 通知五檔更新 Stockidx：501
+2014/12/09 19:25:38.997 通知五檔更新 Stockidx：501
+2014/12/09 19:25:42.596 通知五檔更新 Stockidx：501
+2014/12/09 19:25:44.189 通知五檔更新 Stockidx：501
+2014/12/09 19:25:45.535 通知五檔更新 Stockidx：501
+2014/12/09 19:25:46.191 通知五檔更新 Stockidx：501
+2014/12/09 19:25:48.444 通知五檔更新 Stockidx：501
+2014/12/09 19:25:49.102 通知五檔更新 Stockidx：501
+2014/12/09 19:25:49.854 通知五檔更新 Stockidx：501
+2014/12/09 19:25:50.308 通知五檔更新 Stockidx：501
+2014/12/09 19:25:50.516 通知TICK更新：idx 501,Ptr 8940
+2014/12/09 19:25:50.517 SKOSQuoteLib_GetTick(501,8940)
+2014/12/09 19:25:50.518 通知五檔更新 Stockidx：501
+2014/12/09 19:25:50.726 通知五檔更新 Stockidx：501
+2014/12/09 19:25:51.450 通知TICK更新：idx 501,Ptr 8941
+2014/12/09 19:25:51.451 SKOSQuoteLib_GetTick(501,8941)
+2014/12/09 19:25:51.452 通知五檔更新 Stockidx：501
+2014/12/09 19:25:51.664 通知TICK更新：idx 501,Ptr 8942
+2014/12/09 19:25:51.665 SKOSQuoteLib_GetTick(501,8942)
+2014/12/09 19:25:51.666 通知五檔更新 Stockidx：501
+2014/12/09 19:25:51.667 通知五檔更新 Stockidx：501
+2014/12/09 19:25:51.877 通知五檔更新 Stockidx：501
+2014/12/09 19:25:52.094 通知五檔更新 Stockidx：501
+2014/12/09 19:25:52.302 通知五檔更新 Stockidx：501
+2014/12/09 19:25:52.512 通知五檔更新 Stockidx：501
+2014/12/09 19:25:52.722 通知TICK更新：idx 501,Ptr 8943
+2014/12/09 19:25:52.723 SKOSQuoteLib_GetTick(501,8943)
+2014/12/09 19:25:52.724 通知五檔更新 Stockidx：501
+2014/12/09 19:25:52.935 通知TICK更新：idx 501,Ptr 8944
+2014/12/09 19:25:52.936 SKOSQuoteLib_GetTick(501,8944)
+2014/12/09 19:25:52.937 通知五檔更新 Stockidx：501
+2014/12/09 19:25:52.938 通知五檔更新 Stockidx：501
+2014/12/09 19:25:53.154 通知五檔更新 Stockidx：501
+2014/12/09 19:25:53.559 通知五檔更新 Stockidx：501
+2014/12/09 19:25:54.577 通知五檔更新 Stockidx：501
+2014/12/09 19:25:54.827 通知五檔更新 Stockidx：501
+2014/12/09 19:25:56.080 通知TICK更新：idx 501,Ptr 8945
+2014/12/09 19:25:56.080 SKOSQuoteLib_GetTick(501,8945)
+2014/12/09 19:25:56.082 通知五檔更新 Stockidx：501
+2014/12/09 19:25:56.291 通知TICK更新：idx 501,Ptr 8946
+2014/12/09 19:25:56.459 SKOSQuoteLib_GetTick(501,8946)
+2014/12/09 19:25:56.460 通知五檔更新 Stockidx：501
+2014/12/09 19:25:56.462 通知五檔更新 Stockidx：501
+2014/12/09 19:25:56.501 通知TICK更新：idx 501,Ptr 8947
+2014/12/09 19:25:56.502 SKOSQuoteLib_GetTick(501,8947)
+2014/12/09 19:25:56.503 通知五檔更新 Stockidx：501
+2014/12/09 19:25:56.504 通知五檔更新 Stockidx：501
+2014/12/09 19:25:56.708 通知五檔更新 Stockidx：501
+2014/12/09 19:25:56.918 通知五檔更新 Stockidx：501
+2014/12/09 19:25:56.920 通知TICK更新：idx 501,Ptr 8948
+2014/12/09 19:25:56.920 SKOSQuoteLib_GetTick(501,8948)
+2014/12/09 19:25:56.921 通知五檔更新 Stockidx：501
+2014/12/09 19:25:57.123 通知TICK更新：idx 501,Ptr 8949
+2014/12/09 19:25:57.123 SKOSQuoteLib_GetTick(501,8949)
+2014/12/09 19:25:57.125 通知五檔更新 Stockidx：501
+2014/12/09 19:25:57.126 通知五檔更新 Stockidx：501
+2014/12/09 19:25:57.327 通知五檔更新 Stockidx：501
+2014/12/09 19:25:57.537 通知五檔更新 Stockidx：501
+2014/12/09 19:25:57.753 通知五檔更新 Stockidx：501
+2014/12/09 19:25:57.964 通知五檔更新 Stockidx：501
+2014/12/09 19:25:58.381 通知五檔更新 Stockidx：501
+2014/12/09 19:25:58.725 通知五檔更新 Stockidx：501
+2014/12/09 19:26:00.478 通知五檔更新 Stockidx：501
+2014/12/09 19:26:05.373 通知五檔更新 Stockidx：501
+2014/12/09 19:26:05.375 通知TICK更新：idx 501,Ptr 8950
+2014/12/09 19:26:05.375 SKOSQuoteLib_GetTick(501,8950)
+2014/12/09 19:26:05.376 通知五檔更新 Stockidx：501
+2014/12/09 19:26:05.378 通知五檔更新 Stockidx：501
+2014/12/09 19:26:05.379 通知五檔更新 Stockidx：501
+2014/12/09 19:26:05.380 通知五檔更新 Stockidx：501
+2014/12/09 19:26:05.381 通知五檔更新 Stockidx：501
+2014/12/09 19:26:05.382 通知五檔更新 Stockidx：501
+2014/12/09 19:26:05.685 通知五檔更新 Stockidx：501
+2014/12/09 19:26:05.896 通知五檔更新 Stockidx：501
+2014/12/09 19:26:06.123 通知TICK更新：idx 501,Ptr 8951
+2014/12/09 19:26:06.123 SKOSQuoteLib_GetTick(501,8951)
+2014/12/09 19:26:06.125 通知五檔更新 Stockidx：501
+2014/12/09 19:26:06.332 通知五檔更新 Stockidx：501
+2014/12/09 19:26:06.701 通知五檔更新 Stockidx：501
+2014/12/09 19:26:07.497 通知五檔更新 Stockidx：501
+2014/12/09 19:26:08.436 通知五檔更新 Stockidx：501
+2014/12/09 19:26:09.109 通知五檔更新 Stockidx：501
+2014/12/09 19:26:09.327 通知五檔更新 Stockidx：501
+2014/12/09 19:26:10.046 通知五檔更新 Stockidx：501
+2014/12/09 19:26:10.264 通知五檔更新 Stockidx：501
+2014/12/09 19:26:10.473 通知五檔更新 Stockidx：501
+2014/12/09 19:26:10.474 通知五檔更新 Stockidx：501
+2014/12/09 19:26:10.475 通知五檔更新 Stockidx：501
+2014/12/09 19:26:10.682 通知五檔更新 Stockidx：501
+2014/12/09 19:26:12.767 通知五檔更新 Stockidx：501
+2014/12/09 19:26:13.518 通知五檔更新 Stockidx：501
+2014/12/09 19:26:13.519 通知五檔更新 Stockidx：501
+2014/12/09 19:26:14.564 通知五檔更新 Stockidx：501
+2014/12/09 19:26:14.566 通知五檔更新 Stockidx：501
+2014/12/09 19:26:14.775 通知五檔更新 Stockidx：501
+2014/12/09 19:26:14.984 通知五檔更新 Stockidx：501
+2014/12/09 19:26:15.195 通知五檔更新 Stockidx：501
+2014/12/09 19:26:15.196 通知五檔更新 Stockidx：501
+2014/12/09 19:26:15.405 通知五檔更新 Stockidx：501
+2014/12/09 19:26:15.614 通知五檔更新 Stockidx：501
+2014/12/09 19:26:15.615 通知五檔更新 Stockidx：501
+2014/12/09 19:26:15.849 通知五檔更新 Stockidx：501
+2014/12/09 19:26:16.430 通知五檔更新 Stockidx：501
+2014/12/09 19:26:16.431 通知五檔更新 Stockidx：501
+2014/12/09 19:26:16.979 通知五檔更新 Stockidx：501
+2014/12/09 19:26:17.187 通知五檔更新 Stockidx：501
+2014/12/09 19:26:19.329 通知五檔更新 Stockidx：501
+2014/12/09 19:26:19.547 通知五檔更新 Stockidx：501
+2014/12/09 19:26:19.784 通知五檔更新 Stockidx：501
+2014/12/09 19:26:20.004 通知五檔更新 Stockidx：501
+2014/12/09 19:26:20.239 通知五檔更新 Stockidx：501
+2014/12/09 19:26:20.458 通知五檔更新 Stockidx：501
+2014/12/09 19:26:21.665 通知五檔更新 Stockidx：501
+2014/12/09 19:26:23.839 通知五檔更新 Stockidx：501
+2014/12/09 19:26:26.095 通知五檔更新 Stockidx：501
+2014/12/09 19:26:26.299 通知五檔更新 Stockidx：501
+2014/12/09 19:26:26.507 通知五檔更新 Stockidx：501
+2014/12/09 19:26:27.423 通知五檔更新 Stockidx：501
+2014/12/09 19:26:28.832 通知五檔更新 Stockidx：501
+2014/12/09 19:26:29.191 通知五檔更新 Stockidx：501
+2014/12/09 19:26:29.613 通知五檔更新 Stockidx：501
+2014/12/09 19:26:30.661 通知五檔更新 Stockidx：501
+2014/12/09 19:26:30.882 通知五檔更新 Stockidx：501
+2014/12/09 19:26:32.151 通知五檔更新 Stockidx：501
+2014/12/09 19:26:32.355 通知五檔更新 Stockidx：501
+2014/12/09 19:26:32.572 通知五檔更新 Stockidx：501
+2014/12/09 19:26:34.451 通知五檔更新 Stockidx：501
+2014/12/09 19:26:35.923 通知五檔更新 Stockidx：501
+2014/12/09 19:26:36.127 通知五檔更新 Stockidx：501
+2014/12/09 19:26:37.320 通知五檔更新 Stockidx：501
+2014/12/09 19:26:37.789 通知五檔更新 Stockidx：501
+2014/12/09 19:26:39.218 通知五檔更新 Stockidx：501
+2014/12/09 19:26:39.593 通知五檔更新 Stockidx：501
+2014/12/09 19:26:40.921 通知TICK更新：idx 501,Ptr 8952
+2014/12/09 19:26:40.922 SKOSQuoteLib_GetTick(501,8952)
+2014/12/09 19:26:40.923 通知五檔更新 Stockidx：501
+2014/12/09 19:26:41.140 通知五檔更新 Stockidx：501
+2014/12/09 19:26:41.656 通知五檔更新 Stockidx：501
+2014/12/09 19:26:41.857 通知五檔更新 Stockidx：501
+2014/12/09 19:26:42.330 通知五檔更新 Stockidx：501
+2014/12/09 19:26:44.644 通知五檔更新 Stockidx：501
+2014/12/09 19:26:44.851 通知五檔更新 Stockidx：501
+2014/12/09 19:26:46.715 通知五檔更新 Stockidx：501
+2014/12/09 19:26:46.950 通知五檔更新 Stockidx：501
+2014/12/09 19:26:47.184 通知五檔更新 Stockidx：501
+2014/12/09 19:26:47.670 通知五檔更新 Stockidx：501
+2014/12/09 19:26:47.878 通知五檔更新 Stockidx：501
+2014/12/09 19:26:48.325 通知五檔更新 Stockidx：501
+2014/12/09 19:26:48.533 通知五檔更新 Stockidx：501
+2014/12/09 19:26:48.905 通知五檔更新 Stockidx：501
+2014/12/09 19:26:49.358 通知五檔更新 Stockidx：501
+2014/12/09 19:26:49.827 通知五檔更新 Stockidx：501
+2014/12/09 19:26:50.034 通知五檔更新 Stockidx：501
+2014/12/09 19:26:50.236 通知五檔更新 Stockidx：501
+2014/12/09 19:26:50.487 通知五檔更新 Stockidx：501
+2014/12/09 19:26:51.127 通知五檔更新 Stockidx：501
+2014/12/09 19:26:51.326 通知五檔更新 Stockidx：501
+2014/12/09 19:26:51.691 通知五檔更新 Stockidx：501
+2014/12/09 19:26:51.897 通知五檔更新 Stockidx：501
+2014/12/09 19:26:52.285 通知五檔更新 Stockidx：501
+2014/12/09 19:26:52.817 通知五檔更新 Stockidx：501
+2014/12/09 19:26:54.756 通知五檔更新 Stockidx：501
+2014/12/09 19:26:55.350 通知五檔更新 Stockidx：501
+2014/12/09 19:26:55.555 通知五檔更新 Stockidx：501
+2014/12/09 19:26:55.763 通知五檔更新 Stockidx：501
+2014/12/09 19:26:55.973 通知五檔更新 Stockidx：501
+2014/12/09 19:26:55.975 通知五檔更新 Stockidx：501
+2014/12/09 19:26:55.977 通知五檔更新 Stockidx：501
+2014/12/09 19:26:56.667 通知五檔更新 Stockidx：501
+2014/12/09 19:26:59.344 通知五檔更新 Stockidx：501
+2014/12/09 19:26:59.546 通知五檔更新 Stockidx：501
+2014/12/09 19:27:00.047 通知五檔更新 Stockidx：501
+2014/12/09 19:27:00.399 SKOSQuoteLib_LeaveMonitor()
+2014/12/09 19:27:00.400 連線中斷，Code: 10053 , The virtual circuit was terminated due to a time-out or other failure. The application should close the socket as it is no longer usable.
+2014/12/09 19:27:00.402 SocketDisconnect 斷線CALLBACK通知
+2014/12/09 19:27:00.459 API ExitInstance 

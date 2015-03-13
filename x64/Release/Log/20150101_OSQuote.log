@@ -1,0 +1,34 @@
+2015/01/01 13:02:42.981 -----------
+2015/01/01 13:02:42.981 API InitInstance 
+2015/01/01 13:02:42.984 SKOSQuoteLib_Initialize  ID：E122828927
+2015/01/01 13:02:42.985 SKOSQuoteLib_Initialize  Server：https://order2.capital.com.tw/
+2015/01/01 13:02:47.659 SKOSQuoteLib_AttachConnectCallBack
+2015/01/01 13:02:47.660 SKOSQuoteLib_AttachQuoteCallBack
+2015/01/01 13:02:47.661 SKOSQuoteLib_AttachTicksCallBack
+2015/01/01 13:02:47.662 SKOSQuoteLib_AttachBest5CallBack
+2015/01/01 13:02:47.663 SKOSQuoteLib_AttachServerTimeCallBack
+2015/01/01 13:02:47.664 SKOSQuoteLib_AttachHistoryTicksGetCallBack
+2015/01/01 13:02:50.364 SKOSQuoteLib_EnterMonitor(0)
+2015/01/01 13:02:50.364 Connect FORT05.capital.com.tw 443
+2015/01/01 13:02:50.710 SK_SUBJECT_CONNECTION_CONNECTED，Code: 0
+2015/01/01 13:03:04.084 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+2015/01/01 13:03:07.734 通知五檔更新 Stockidx：499
+2015/01/01 13:03:13.708 SKOSQuoteLib_AttachKLineDataCallBack
+2015/01/01 13:03:13.709 SKOSQuoteLib_RequestKLine (OSE,JNMPM1503,0)
+2015/01/01 13:04:36.183 SKOSQuoteLib_AttachKLineDataCallBack
+2015/01/01 13:04:36.183 SKOSQuoteLib_RequestKLine (OSE,JNMI1503,0)
+2015/01/01 13:04:38.604 SKOSQuoteLib_AttachOverseaProductsCallBack
+2015/01/01 13:04:38.605 SKOSQuoteLib_RequestOverseaProducts()
+2015/01/01 13:04:59.083 SKOSQuoteLib_AttachKLineDataCallBack
+2015/01/01 13:04:59.084 SKOSQuoteLib_RequestKLine (OSE,JNM1503,0)
+2015/01/01 13:41:41.036 SKOSQuoteLib_RequestTicks (0,OSE,JNMPM1503)
+2015/01/01 13:41:51.588 SKOSQuoteLib_RequestTicks (0,OSE,JNM1503)
+2015/01/01 13:41:51.774 通知五檔更新 Stockidx：496
+2015/01/01 13:43:10.775 SKOSQuoteLib_AttachKLineDataCallBack
+2015/01/01 13:43:10.775 SKOSQuoteLib_RequestKLine (OSE,JNMPM1503,0)
+2015/01/01 13:49:15.239 SKOSQuoteLib_AttachKLineDataCallBack
+2015/01/01 13:49:15.240 SKOSQuoteLib_RequestKLine (OSE,JNMPM1503,0)
+2015/01/01 13:52:38.975 SKOSQuoteLib_AttachKLineDataCallBack
+2015/01/01 13:52:38.976 SKOSQuoteLib_RequestKLine (OSE,JNM1503,0)
+2015/01/01 14:00:20.303 SKOSQuoteLib_AttachKLineDataCallBack
+2015/01/01 14:00:20.303 SKOSQuoteLib_RequestKLine (OSE,JNMPM1503,0)
